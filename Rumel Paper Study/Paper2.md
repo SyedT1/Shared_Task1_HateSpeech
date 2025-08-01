@@ -41,6 +41,24 @@
           They created template with placeholders for specific traits filled with adjective words from categories like Personality, Outlook, Communal, and Occupation. They got 2772 template sentences by combining both the
           categories
      </p>
+     <b>
+          Naturally Sourced
+     </b>
+     <p>
+          They use the BIBED dataset (Das et al., 2023), specifically the Explicit Bias Evaluation (EBE) data for naturally occurring scenarios.After curation, 2416 pairs were retained for gender and 1535 for religion
+     </p>
 
  <p>
+ <p>
+     <b>
+          Experimental Setup
+     </b>
+     <p>
+          For their experiment they provide results for four
+          state-of-the-art LLMs: Llama3-8b (version: MetaLlama-3-8B-Instruct 3
+          ) (AI@Meta, 2024), GPT3.5-Turbo 4
+          , GPT-4o 5
+          and Claude-3.5-Sonnet
+     </p>
+ </p>
 </div>
