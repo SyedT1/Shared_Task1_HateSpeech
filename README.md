@@ -12,11 +12,18 @@ The subtask1A folder contains the following evaluation approaches:
 - **Deep Learning Models** - Neural network architectures for hate speech classification
 - **Ensembling with Attacks** - Ensemble methods combined with adversarial attacks
 - **Large Language Models (LLMs)**
-  - DistilBERT-multilingual (v0.6803)
-  - XLM-RoBERTa-base (v0.705)
-  - BanglaBERT-large (csebuetnlp) (v0.7051)
+  - DistilBERT-multilingual (Macro F1: 0.6803)
+  - XLM-RoBERTa-base (Macro F1: 0.705)
+  - BanglaBERT-large (csebuetnlp) (Macro F1: 0.7051)
+  - BanglaBERT (csebuetnlp) (Macro F1: 0.7074)
+  - MuRIL-large-cased (Macro F1: 0.7102)
+  - XLM-RoBERTa-large (Macro F1: 0.7281)
 - **LLMs with Adversarial Attacks** - Robustness testing using adversarial examples
 - **LLMs with K-Fold Cross Validation** - K-fold CV for better model evaluation
+  - DistilBERT-multilingual with K-Fold (Macro F1: 0.6963)
+  - XLM-RoBERTa-base with K-Fold (Macro F1: 0.7174)
+  - BanglaBERT-large with K-Fold (Macro F1: 0.7313)
+  - BanglaBERT with K-Fold (Macro F1: 0.7329)
 - **LLMs with ML Model Ensembling** - Combining LLMs with traditional ML approaches
 - **Traditional ML Models** - Classical machine learning algorithms
 
@@ -41,10 +48,10 @@ The subtask1C folder contains more advanced implementations with adversarial tra
 - **Large Language Models (LLMs)**
 - **LLMs with Adversarial Attacks and K-Fold CV**
   - BanglaBERT (cse-buet-nlp) with multiple attack variants:
-    - FGM (Fast Gradient Method) - v1_0.7375
-    - GAT (Gradient Adversarial Training) - v_0.7379
-    - Simple FreeLB - v_0.7391
-    - FreeLB (Free Large-Batch adversarial training) - v_0.7452
+    - FGM (Fast Gradient Method) - Macro F1: 0.7375
+    - GAT (Gradient Adversarial Training) - Macro F1: 0.7379
+    - Simple FreeLB - Macro F1: 0.7391
+    - FreeLB (Free Large-Batch adversarial training) - Macro F1: 0.7452
 - **LLMs with K-Fold Cross Validation**
 - **LLMs with ML Model Ensembling and K-Fold**
 - **Traditional ML Models**
@@ -59,12 +66,12 @@ The project implements several adversarial training techniques to improve model 
 - **Simple FreeLB**: A simplified version of FreeLB for easier implementation
 
 ### Model Performance
-Best performing models based on validation scores:
-- Subtask 1C: BanglaBERT with FreeLB (v_0.7452)
-- Subtask 1A: BanglaBERT-large (v0.7051)
+Best performing models based on Macro F1 scores:
+- Subtask 1C: BanglaBERT with FreeLB (Macro F1: 0.7452)
+- Subtask 1A: BanglaBERT with K-Fold CV (Macro F1: 0.7329)
 
 ## Technologies Used
-- **Transformers**: DistilBERT, XLM-RoBERTa, BanglaBERT
+- **Transformers**: DistilBERT, XLM-RoBERTa (base & large), BanglaBERT, MuRIL-large-cased
 - **Deep Learning Frameworks**: PyTorch/TensorFlow (inferred from .ipynb files)
 - **Adversarial Training**: FreeLB, FGM, GAT implementations
 - **Evaluation**: K-Fold Cross Validation
@@ -73,7 +80,9 @@ Best performing models based on validation scores:
 ## File Organization
 Each subtask folder contains:
 - `Evaluation Phase/` - Main directory with all experimental approaches
-- Individual approach folders containing Jupyter notebooks (.ipynb) with implementations
+- Individual approach folders with version naming format: `v{macro_f1_score}_{model_name}`
+  - Example: `v0.7452_freelb` indicates Macro F1 score of 0.7452 using FreeLB model
+- Jupyter notebooks (.ipynb) with complete implementation pipelines
 - README files in evaluation phase directories
 
 ## Recent Updates
