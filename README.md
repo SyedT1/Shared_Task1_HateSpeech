@@ -6,6 +6,7 @@ This repository contains implementations for a hate speech detection shared task
 ## Repository Structure
 
 ### Subtask 1A
+-------------
 The subtask1A folder contains the following evaluation approaches:
 
 #### Approaches Implemented:
