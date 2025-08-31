@@ -49,7 +49,7 @@ The subtask1C folder contains more advanced implementations with adversarial tra
 - **LLMs with Adversarial Attacks and K-Fold CV**
   - BanglaBERT (cse-buet-nlp) with multiple attack variants:
     - FGM (Fast Gradient Method) - Macro F1: 0.7375
-    - GAT (Gradient Adversarial Training) - Macro F1: 0.7379
+    - GAT (Geometry-Aware Adversarial Training) - Macro F1: 0.7379
     - Simple FreeLB - Macro F1: 0.7391
     - FreeLB (Free Large-Batch adversarial training) - Macro F1: 0.7452
 - **LLMs with K-Fold Cross Validation**
@@ -61,7 +61,7 @@ The subtask1C folder contains more advanced implementations with adversarial tra
 ### Adversarial Training Methods
 The project implements several adversarial training techniques to improve model robustness:
 - **FGM (Fast Gradient Method)**: A simple and efficient adversarial training approach
-- **GAT (Gradient Adversarial Training)**: Advanced gradient-based adversarial training
+- **GAT (Geometry-Aware Adversarial Training)**: Advanced geometry-aware adversarial training
 - **FreeLB**: Free Large-Batch adversarial training for improved generalization
 - **Simple FreeLB**: A simplified version of FreeLB for easier implementation
 
