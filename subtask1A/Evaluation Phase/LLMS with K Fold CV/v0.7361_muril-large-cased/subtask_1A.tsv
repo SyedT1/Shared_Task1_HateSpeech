@@ -1,0 +1,2513 @@
+id	label	model
+879187	None	google/muril-large-cased
+316919	Profane	google/muril-large-cased
+916242	None	google/muril-large-cased
+786824	None	google/muril-large-cased
+47284	None	google/muril-large-cased
+51359	Profane	google/muril-large-cased
+327639	None	google/muril-large-cased
+925152	Profane	google/muril-large-cased
+432602	Religious Hate	google/muril-large-cased
+540917	Abusive	google/muril-large-cased
+259015	None	google/muril-large-cased
+119485	None	google/muril-large-cased
+629565	None	google/muril-large-cased
+223268	Abusive	google/muril-large-cased
+91157	Political Hate	google/muril-large-cased
+123076	Abusive	google/muril-large-cased
+301408	None	google/muril-large-cased
+153221	None	google/muril-large-cased
+713730	None	google/muril-large-cased
+104093	Political Hate	google/muril-large-cased
+284969	Political Hate	google/muril-large-cased
+154146	None	google/muril-large-cased
+903474	None	google/muril-large-cased
+310847	None	google/muril-large-cased
+618320	None	google/muril-large-cased
+219771	None	google/muril-large-cased
+137796	None	google/muril-large-cased
+557214	Abusive	google/muril-large-cased
+639414	None	google/muril-large-cased
+499556	Profane	google/muril-large-cased
+874903	None	google/muril-large-cased
+242561	None	google/muril-large-cased
+170696	None	google/muril-large-cased
+400293	None	google/muril-large-cased
+345498	None	google/muril-large-cased
+682342	Political Hate	google/muril-large-cased
+103754	Abusive	google/muril-large-cased
+763773	None	google/muril-large-cased
+366364	Religious Hate	google/muril-large-cased
+748942	None	google/muril-large-cased
+108952	Abusive	google/muril-large-cased
+852650	Political Hate	google/muril-large-cased
+638113	Profane	google/muril-large-cased
+788538	Political Hate	google/muril-large-cased
+677410	Religious Hate	google/muril-large-cased
+194546	Abusive	google/muril-large-cased
+645529	Political Hate	google/muril-large-cased
+924142	None	google/muril-large-cased
+69380	Political Hate	google/muril-large-cased
+748478	None	google/muril-large-cased
+645018	None	google/muril-large-cased
+295794	None	google/muril-large-cased
+63426	Abusive	google/muril-large-cased
+63116	Profane	google/muril-large-cased
+551400	None	google/muril-large-cased
+835607	Abusive	google/muril-large-cased
+103869	None	google/muril-large-cased
+562502	None	google/muril-large-cased
+472928	None	google/muril-large-cased
+319508	None	google/muril-large-cased
+545961	None	google/muril-large-cased
+698843	None	google/muril-large-cased
+590762	None	google/muril-large-cased
+878482	None	google/muril-large-cased
+451314	Abusive	google/muril-large-cased
+88129	Profane	google/muril-large-cased
+189525	Religious Hate	google/muril-large-cased
+379097	Abusive	google/muril-large-cased
+864667	None	google/muril-large-cased
+780940	None	google/muril-large-cased
+577465	Abusive	google/muril-large-cased
+201744	Sexism	google/muril-large-cased
+5641	Abusive	google/muril-large-cased
+110529	None	google/muril-large-cased
+732060	None	google/muril-large-cased
+899521	None	google/muril-large-cased
+217414	Political Hate	google/muril-large-cased
+364331	Religious Hate	google/muril-large-cased
+220584	None	google/muril-large-cased
+521448	None	google/muril-large-cased
+235213	Profane	google/muril-large-cased
+288321	Abusive	google/muril-large-cased
+444659	None	google/muril-large-cased
+288470	Political Hate	google/muril-large-cased
+602580	Abusive	google/muril-large-cased
+505064	Abusive	google/muril-large-cased
+220958	None	google/muril-large-cased
+208873	None	google/muril-large-cased
+905717	Abusive	google/muril-large-cased
+753381	None	google/muril-large-cased
+189967	Political Hate	google/muril-large-cased
+55334	Abusive	google/muril-large-cased
+585271	Political Hate	google/muril-large-cased
+284428	Political Hate	google/muril-large-cased
+333828	None	google/muril-large-cased
+268077	Political Hate	google/muril-large-cased
+791784	Political Hate	google/muril-large-cased
+29385	None	google/muril-large-cased
+721154	None	google/muril-large-cased
+53445	None	google/muril-large-cased
+849367	Profane	google/muril-large-cased
+776247	None	google/muril-large-cased
+194347	Profane	google/muril-large-cased
+875084	None	google/muril-large-cased
+429185	None	google/muril-large-cased
+869559	None	google/muril-large-cased
+551711	None	google/muril-large-cased
+459530	None	google/muril-large-cased
+371844	None	google/muril-large-cased
+678759	None	google/muril-large-cased
+928871	None	google/muril-large-cased
+938337	None	google/muril-large-cased
+486005	Sexism	google/muril-large-cased
+739268	None	google/muril-large-cased
+256855	None	google/muril-large-cased
+57158	Sexism	google/muril-large-cased
+492274	Abusive	google/muril-large-cased
+177187	None	google/muril-large-cased
+323380	Profane	google/muril-large-cased
+736173	Abusive	google/muril-large-cased
+655076	None	google/muril-large-cased
+636680	Political Hate	google/muril-large-cased
+319075	None	google/muril-large-cased
+183674	Political Hate	google/muril-large-cased
+556548	Profane	google/muril-large-cased
+268230	None	google/muril-large-cased
+732875	None	google/muril-large-cased
+212780	Abusive	google/muril-large-cased
+915594	None	google/muril-large-cased
+187124	Abusive	google/muril-large-cased
+376637	Abusive	google/muril-large-cased
+237536	None	google/muril-large-cased
+727320	Profane	google/muril-large-cased
+62305	None	google/muril-large-cased
+518275	None	google/muril-large-cased
+190205	None	google/muril-large-cased
+682947	None	google/muril-large-cased
+843536	None	google/muril-large-cased
+298286	Profane	google/muril-large-cased
+260368	Political Hate	google/muril-large-cased
+109120	None	google/muril-large-cased
+732085	None	google/muril-large-cased
+587177	Abusive	google/muril-large-cased
+219166	Political Hate	google/muril-large-cased
+712397	None	google/muril-large-cased
+744608	None	google/muril-large-cased
+839392	None	google/muril-large-cased
+567799	None	google/muril-large-cased
+357344	Abusive	google/muril-large-cased
+646789	Political Hate	google/muril-large-cased
+144730	None	google/muril-large-cased
+606121	None	google/muril-large-cased
+663589	None	google/muril-large-cased
+175058	Abusive	google/muril-large-cased
+602882	Abusive	google/muril-large-cased
+865744	None	google/muril-large-cased
+15148	None	google/muril-large-cased
+714172	Profane	google/muril-large-cased
+919656	Abusive	google/muril-large-cased
+641435	None	google/muril-large-cased
+542675	Profane	google/muril-large-cased
+97962	Profane	google/muril-large-cased
+35543	None	google/muril-large-cased
+249438	None	google/muril-large-cased
+45817	Abusive	google/muril-large-cased
+846205	Abusive	google/muril-large-cased
+684720	None	google/muril-large-cased
+659930	Profane	google/muril-large-cased
+446120	Political Hate	google/muril-large-cased
+315323	Abusive	google/muril-large-cased
+533231	Abusive	google/muril-large-cased
+103313	None	google/muril-large-cased
+484049	None	google/muril-large-cased
+258145	Profane	google/muril-large-cased
+255461	Religious Hate	google/muril-large-cased
+582412	Political Hate	google/muril-large-cased
+541719	Religious Hate	google/muril-large-cased
+400986	None	google/muril-large-cased
+547162	Political Hate	google/muril-large-cased
+444235	Abusive	google/muril-large-cased
+349790	Abusive	google/muril-large-cased
+1698	None	google/muril-large-cased
+733055	None	google/muril-large-cased
+358186	None	google/muril-large-cased
+272026	Profane	google/muril-large-cased
+843498	None	google/muril-large-cased
+903157	Abusive	google/muril-large-cased
+869323	None	google/muril-large-cased
+314731	Abusive	google/muril-large-cased
+923983	Abusive	google/muril-large-cased
+467220	None	google/muril-large-cased
+203763	Abusive	google/muril-large-cased
+254343	Political Hate	google/muril-large-cased
+753995	None	google/muril-large-cased
+577269	None	google/muril-large-cased
+140440	None	google/muril-large-cased
+327128	Abusive	google/muril-large-cased
+742109	None	google/muril-large-cased
+339941	None	google/muril-large-cased
+648055	None	google/muril-large-cased
+271686	None	google/muril-large-cased
+167523	Abusive	google/muril-large-cased
+565237	None	google/muril-large-cased
+326583	Abusive	google/muril-large-cased
+521049	None	google/muril-large-cased
+635150	None	google/muril-large-cased
+667038	None	google/muril-large-cased
+533234	None	google/muril-large-cased
+49935	Abusive	google/muril-large-cased
+132749	None	google/muril-large-cased
+526931	None	google/muril-large-cased
+120887	None	google/muril-large-cased
+148965	Sexism	google/muril-large-cased
+785355	None	google/muril-large-cased
+904080	None	google/muril-large-cased
+242296	Religious Hate	google/muril-large-cased
+505804	None	google/muril-large-cased
+28164	None	google/muril-large-cased
+287563	Profane	google/muril-large-cased
+866300	Sexism	google/muril-large-cased
+846915	Abusive	google/muril-large-cased
+363471	Abusive	google/muril-large-cased
+376108	Abusive	google/muril-large-cased
+725247	Profane	google/muril-large-cased
+917058	Abusive	google/muril-large-cased
+936170	None	google/muril-large-cased
+632147	None	google/muril-large-cased
+71795	Profane	google/muril-large-cased
+886268	Abusive	google/muril-large-cased
+22299	None	google/muril-large-cased
+727182	None	google/muril-large-cased
+565081	None	google/muril-large-cased
+599305	Abusive	google/muril-large-cased
+443980	None	google/muril-large-cased
+765765	None	google/muril-large-cased
+473418	None	google/muril-large-cased
+544646	None	google/muril-large-cased
+351344	None	google/muril-large-cased
+697214	Abusive	google/muril-large-cased
+371187	None	google/muril-large-cased
+121250	Political Hate	google/muril-large-cased
+20874	None	google/muril-large-cased
+850266	None	google/muril-large-cased
+439950	Religious Hate	google/muril-large-cased
+427668	None	google/muril-large-cased
+60444	None	google/muril-large-cased
+659301	None	google/muril-large-cased
+592983	None	google/muril-large-cased
+827694	Abusive	google/muril-large-cased
+566134	Profane	google/muril-large-cased
+355167	None	google/muril-large-cased
+350908	None	google/muril-large-cased
+332323	None	google/muril-large-cased
+454987	Profane	google/muril-large-cased
+170966	None	google/muril-large-cased
+56299	None	google/muril-large-cased
+53232	Political Hate	google/muril-large-cased
+649211	None	google/muril-large-cased
+390308	None	google/muril-large-cased
+488779	None	google/muril-large-cased
+215984	Political Hate	google/muril-large-cased
+628026	Abusive	google/muril-large-cased
+368087	None	google/muril-large-cased
+875776	Abusive	google/muril-large-cased
+831832	Political Hate	google/muril-large-cased
+569593	Political Hate	google/muril-large-cased
+469197	None	google/muril-large-cased
+390574	None	google/muril-large-cased
+436078	Abusive	google/muril-large-cased
+72621	Political Hate	google/muril-large-cased
+265323	None	google/muril-large-cased
+476101	Profane	google/muril-large-cased
+104541	Political Hate	google/muril-large-cased
+446025	Abusive	google/muril-large-cased
+731432	Abusive	google/muril-large-cased
+162796	Abusive	google/muril-large-cased
+120013	None	google/muril-large-cased
+836767	None	google/muril-large-cased
+843079	Abusive	google/muril-large-cased
+97007	None	google/muril-large-cased
+328435	Political Hate	google/muril-large-cased
+779718	Abusive	google/muril-large-cased
+419606	None	google/muril-large-cased
+920869	Abusive	google/muril-large-cased
+664800	Political Hate	google/muril-large-cased
+98071	None	google/muril-large-cased
+842810	Abusive	google/muril-large-cased
+19398	Political Hate	google/muril-large-cased
+564701	None	google/muril-large-cased
+573270	None	google/muril-large-cased
+593127	Political Hate	google/muril-large-cased
+102435	None	google/muril-large-cased
+256050	None	google/muril-large-cased
+81593	None	google/muril-large-cased
+632323	None	google/muril-large-cased
+825656	None	google/muril-large-cased
+566899	Political Hate	google/muril-large-cased
+510731	None	google/muril-large-cased
+384979	None	google/muril-large-cased
+144849	None	google/muril-large-cased
+79787	None	google/muril-large-cased
+910730	None	google/muril-large-cased
+363532	Abusive	google/muril-large-cased
+620917	None	google/muril-large-cased
+600432	None	google/muril-large-cased
+581971	None	google/muril-large-cased
+685765	Political Hate	google/muril-large-cased
+706846	None	google/muril-large-cased
+266829	Political Hate	google/muril-large-cased
+557555	None	google/muril-large-cased
+496625	Abusive	google/muril-large-cased
+178872	None	google/muril-large-cased
+711143	None	google/muril-large-cased
+332460	None	google/muril-large-cased
+29919	Political Hate	google/muril-large-cased
+655611	None	google/muril-large-cased
+669537	None	google/muril-large-cased
+208251	Profane	google/muril-large-cased
+866998	Abusive	google/muril-large-cased
+143177	Profane	google/muril-large-cased
+769023	None	google/muril-large-cased
+396646	Abusive	google/muril-large-cased
+225407	Abusive	google/muril-large-cased
+359767	None	google/muril-large-cased
+123345	Political Hate	google/muril-large-cased
+283543	Abusive	google/muril-large-cased
+542107	None	google/muril-large-cased
+152502	None	google/muril-large-cased
+146539	None	google/muril-large-cased
+357373	None	google/muril-large-cased
+25777	None	google/muril-large-cased
+746972	None	google/muril-large-cased
+270762	Abusive	google/muril-large-cased
+558844	None	google/muril-large-cased
+740225	None	google/muril-large-cased
+886666	None	google/muril-large-cased
+606932	None	google/muril-large-cased
+209217	None	google/muril-large-cased
+777488	None	google/muril-large-cased
+130669	Profane	google/muril-large-cased
+762285	Political Hate	google/muril-large-cased
+685431	Political Hate	google/muril-large-cased
+771815	None	google/muril-large-cased
+252415	Profane	google/muril-large-cased
+687596	None	google/muril-large-cased
+242766	Abusive	google/muril-large-cased
+447554	None	google/muril-large-cased
+427243	Religious Hate	google/muril-large-cased
+140278	None	google/muril-large-cased
+401449	None	google/muril-large-cased
+765938	Political Hate	google/muril-large-cased
+133168	None	google/muril-large-cased
+306158	None	google/muril-large-cased
+637422	None	google/muril-large-cased
+663885	Abusive	google/muril-large-cased
+291989	None	google/muril-large-cased
+298326	None	google/muril-large-cased
+799266	None	google/muril-large-cased
+779258	Political Hate	google/muril-large-cased
+546084	None	google/muril-large-cased
+781242	Sexism	google/muril-large-cased
+602262	None	google/muril-large-cased
+773036	None	google/muril-large-cased
+377308	Abusive	google/muril-large-cased
+142631	Political Hate	google/muril-large-cased
+895459	None	google/muril-large-cased
+787010	None	google/muril-large-cased
+645662	None	google/muril-large-cased
+45403	None	google/muril-large-cased
+267853	None	google/muril-large-cased
+917758	None	google/muril-large-cased
+426332	None	google/muril-large-cased
+422595	None	google/muril-large-cased
+691331	None	google/muril-large-cased
+610080	None	google/muril-large-cased
+501233	None	google/muril-large-cased
+131294	None	google/muril-large-cased
+815428	Political Hate	google/muril-large-cased
+195149	Political Hate	google/muril-large-cased
+207721	Political Hate	google/muril-large-cased
+416773	Political Hate	google/muril-large-cased
+313335	Abusive	google/muril-large-cased
+329274	None	google/muril-large-cased
+508798	None	google/muril-large-cased
+868978	None	google/muril-large-cased
+310124	None	google/muril-large-cased
+785154	None	google/muril-large-cased
+535201	None	google/muril-large-cased
+626322	None	google/muril-large-cased
+890167	Profane	google/muril-large-cased
+184776	Political Hate	google/muril-large-cased
+390461	None	google/muril-large-cased
+503090	Abusive	google/muril-large-cased
+461035	None	google/muril-large-cased
+619709	None	google/muril-large-cased
+890283	Abusive	google/muril-large-cased
+132888	None	google/muril-large-cased
+17079	Abusive	google/muril-large-cased
+218300	None	google/muril-large-cased
+345231	None	google/muril-large-cased
+285893	None	google/muril-large-cased
+632928	None	google/muril-large-cased
+479465	None	google/muril-large-cased
+2602	Profane	google/muril-large-cased
+85641	None	google/muril-large-cased
+682701	None	google/muril-large-cased
+436258	Political Hate	google/muril-large-cased
+114639	None	google/muril-large-cased
+674071	None	google/muril-large-cased
+244282	None	google/muril-large-cased
+318350	None	google/muril-large-cased
+553375	Political Hate	google/muril-large-cased
+135830	Abusive	google/muril-large-cased
+260169	Political Hate	google/muril-large-cased
+553667	None	google/muril-large-cased
+183040	Sexism	google/muril-large-cased
+680751	None	google/muril-large-cased
+274955	Abusive	google/muril-large-cased
+370027	None	google/muril-large-cased
+121905	None	google/muril-large-cased
+440653	None	google/muril-large-cased
+732217	Political Hate	google/muril-large-cased
+618508	Profane	google/muril-large-cased
+90671	None	google/muril-large-cased
+322046	None	google/muril-large-cased
+843688	Profane	google/muril-large-cased
+645379	Profane	google/muril-large-cased
+228279	Profane	google/muril-large-cased
+26128	None	google/muril-large-cased
+95316	Profane	google/muril-large-cased
+161304	None	google/muril-large-cased
+770118	None	google/muril-large-cased
+219678	Political Hate	google/muril-large-cased
+783494	None	google/muril-large-cased
+422409	None	google/muril-large-cased
+38646	None	google/muril-large-cased
+231486	Profane	google/muril-large-cased
+443053	None	google/muril-large-cased
+97738	Political Hate	google/muril-large-cased
+493860	None	google/muril-large-cased
+67696	Political Hate	google/muril-large-cased
+547919	Abusive	google/muril-large-cased
+339308	None	google/muril-large-cased
+43011	None	google/muril-large-cased
+795119	None	google/muril-large-cased
+292726	Political Hate	google/muril-large-cased
+180440	None	google/muril-large-cased
+198740	Abusive	google/muril-large-cased
+773993	None	google/muril-large-cased
+190166	Abusive	google/muril-large-cased
+201671	Political Hate	google/muril-large-cased
+857416	Abusive	google/muril-large-cased
+926290	None	google/muril-large-cased
+19835	None	google/muril-large-cased
+359775	Abusive	google/muril-large-cased
+625911	Abusive	google/muril-large-cased
+324644	None	google/muril-large-cased
+561231	None	google/muril-large-cased
+486277	Abusive	google/muril-large-cased
+699555	None	google/muril-large-cased
+796009	None	google/muril-large-cased
+442802	None	google/muril-large-cased
+345862	None	google/muril-large-cased
+577567	Political Hate	google/muril-large-cased
+917536	Abusive	google/muril-large-cased
+465219	None	google/muril-large-cased
+202537	None	google/muril-large-cased
+810678	Abusive	google/muril-large-cased
+471847	Profane	google/muril-large-cased
+451450	None	google/muril-large-cased
+231023	None	google/muril-large-cased
+464828	None	google/muril-large-cased
+736021	None	google/muril-large-cased
+17036	Religious Hate	google/muril-large-cased
+676426	Abusive	google/muril-large-cased
+351306	None	google/muril-large-cased
+628567	None	google/muril-large-cased
+495615	None	google/muril-large-cased
+248858	Political Hate	google/muril-large-cased
+323407	None	google/muril-large-cased
+800267	None	google/muril-large-cased
+924086	None	google/muril-large-cased
+332310	None	google/muril-large-cased
+2399	Abusive	google/muril-large-cased
+642008	Political Hate	google/muril-large-cased
+579150	None	google/muril-large-cased
+532008	Profane	google/muril-large-cased
+920515	Profane	google/muril-large-cased
+928170	None	google/muril-large-cased
+115600	None	google/muril-large-cased
+160611	None	google/muril-large-cased
+57343	Political Hate	google/muril-large-cased
+233245	Political Hate	google/muril-large-cased
+160063	Profane	google/muril-large-cased
+215216	None	google/muril-large-cased
+259716	Political Hate	google/muril-large-cased
+24649	Political Hate	google/muril-large-cased
+236647	None	google/muril-large-cased
+890600	Abusive	google/muril-large-cased
+818229	None	google/muril-large-cased
+181400	Political Hate	google/muril-large-cased
+184128	None	google/muril-large-cased
+732571	None	google/muril-large-cased
+803103	Profane	google/muril-large-cased
+103559	Abusive	google/muril-large-cased
+104069	Abusive	google/muril-large-cased
+532685	None	google/muril-large-cased
+860196	Abusive	google/muril-large-cased
+207034	None	google/muril-large-cased
+852222	Abusive	google/muril-large-cased
+620269	Abusive	google/muril-large-cased
+214987	Political Hate	google/muril-large-cased
+390209	Profane	google/muril-large-cased
+828144	Religious Hate	google/muril-large-cased
+355435	None	google/muril-large-cased
+280909	None	google/muril-large-cased
+648822	None	google/muril-large-cased
+469956	None	google/muril-large-cased
+491045	Profane	google/muril-large-cased
+853713	None	google/muril-large-cased
+759980	None	google/muril-large-cased
+569003	Political Hate	google/muril-large-cased
+803693	Religious Hate	google/muril-large-cased
+481481	None	google/muril-large-cased
+853785	Abusive	google/muril-large-cased
+451339	Abusive	google/muril-large-cased
+434603	Profane	google/muril-large-cased
+776243	Profane	google/muril-large-cased
+857738	None	google/muril-large-cased
+657731	None	google/muril-large-cased
+309549	None	google/muril-large-cased
+935003	None	google/muril-large-cased
+837370	Abusive	google/muril-large-cased
+832799	Political Hate	google/muril-large-cased
+333504	Profane	google/muril-large-cased
+455676	None	google/muril-large-cased
+686341	None	google/muril-large-cased
+833132	Profane	google/muril-large-cased
+829417	None	google/muril-large-cased
+173721	Sexism	google/muril-large-cased
+179807	None	google/muril-large-cased
+172129	Abusive	google/muril-large-cased
+309949	Abusive	google/muril-large-cased
+868955	None	google/muril-large-cased
+649693	None	google/muril-large-cased
+90477	Profane	google/muril-large-cased
+150665	None	google/muril-large-cased
+539518	None	google/muril-large-cased
+6441	None	google/muril-large-cased
+316408	Abusive	google/muril-large-cased
+673952	None	google/muril-large-cased
+51761	None	google/muril-large-cased
+754177	None	google/muril-large-cased
+931338	None	google/muril-large-cased
+522610	None	google/muril-large-cased
+27947	None	google/muril-large-cased
+653841	Religious Hate	google/muril-large-cased
+40916	None	google/muril-large-cased
+446133	None	google/muril-large-cased
+841967	None	google/muril-large-cased
+609657	None	google/muril-large-cased
+739084	None	google/muril-large-cased
+351764	None	google/muril-large-cased
+259184	None	google/muril-large-cased
+393117	Religious Hate	google/muril-large-cased
+328240	None	google/muril-large-cased
+468435	Abusive	google/muril-large-cased
+541450	None	google/muril-large-cased
+723785	None	google/muril-large-cased
+276566	None	google/muril-large-cased
+606464	None	google/muril-large-cased
+126449	None	google/muril-large-cased
+75097	None	google/muril-large-cased
+191972	Profane	google/muril-large-cased
+837237	Abusive	google/muril-large-cased
+400643	Political Hate	google/muril-large-cased
+418393	Political Hate	google/muril-large-cased
+910685	None	google/muril-large-cased
+617275	Profane	google/muril-large-cased
+494945	None	google/muril-large-cased
+318209	Profane	google/muril-large-cased
+696250	Sexism	google/muril-large-cased
+360014	None	google/muril-large-cased
+578712	Political Hate	google/muril-large-cased
+127383	None	google/muril-large-cased
+452100	Abusive	google/muril-large-cased
+936774	Profane	google/muril-large-cased
+81295	Political Hate	google/muril-large-cased
+312562	None	google/muril-large-cased
+114169	None	google/muril-large-cased
+758394	None	google/muril-large-cased
+819133	Political Hate	google/muril-large-cased
+427526	None	google/muril-large-cased
+200459	Abusive	google/muril-large-cased
+716131	None	google/muril-large-cased
+416788	Abusive	google/muril-large-cased
+444300	Profane	google/muril-large-cased
+274190	None	google/muril-large-cased
+692604	None	google/muril-large-cased
+297287	None	google/muril-large-cased
+569220	Political Hate	google/muril-large-cased
+464993	None	google/muril-large-cased
+219503	Political Hate	google/muril-large-cased
+603542	None	google/muril-large-cased
+910996	None	google/muril-large-cased
+733681	None	google/muril-large-cased
+682912	Abusive	google/muril-large-cased
+79179	Political Hate	google/muril-large-cased
+185878	Political Hate	google/muril-large-cased
+429794	Abusive	google/muril-large-cased
+37514	None	google/muril-large-cased
+677951	None	google/muril-large-cased
+606638	None	google/muril-large-cased
+667790	Abusive	google/muril-large-cased
+404077	None	google/muril-large-cased
+664870	Political Hate	google/muril-large-cased
+82089	Abusive	google/muril-large-cased
+506355	Political Hate	google/muril-large-cased
+542327	None	google/muril-large-cased
+691922	None	google/muril-large-cased
+640273	Abusive	google/muril-large-cased
+320130	None	google/muril-large-cased
+367958	None	google/muril-large-cased
+243866	None	google/muril-large-cased
+601147	Political Hate	google/muril-large-cased
+641554	None	google/muril-large-cased
+454838	Abusive	google/muril-large-cased
+327255	None	google/muril-large-cased
+271180	Political Hate	google/muril-large-cased
+452547	Political Hate	google/muril-large-cased
+627679	None	google/muril-large-cased
+651348	None	google/muril-large-cased
+328461	Abusive	google/muril-large-cased
+839448	Political Hate	google/muril-large-cased
+623474	Political Hate	google/muril-large-cased
+610269	Political Hate	google/muril-large-cased
+323389	Abusive	google/muril-large-cased
+629010	None	google/muril-large-cased
+9257	None	google/muril-large-cased
+17083	None	google/muril-large-cased
+797040	None	google/muril-large-cased
+422453	Profane	google/muril-large-cased
+514992	None	google/muril-large-cased
+107986	None	google/muril-large-cased
+887752	Profane	google/muril-large-cased
+452552	Abusive	google/muril-large-cased
+549245	None	google/muril-large-cased
+391592	Abusive	google/muril-large-cased
+819745	Abusive	google/muril-large-cased
+881262	None	google/muril-large-cased
+77103	Profane	google/muril-large-cased
+554417	Profane	google/muril-large-cased
+556605	None	google/muril-large-cased
+145147	None	google/muril-large-cased
+693769	None	google/muril-large-cased
+330413	None	google/muril-large-cased
+181628	Political Hate	google/muril-large-cased
+744235	None	google/muril-large-cased
+235157	None	google/muril-large-cased
+3945	None	google/muril-large-cased
+592566	None	google/muril-large-cased
+822682	Political Hate	google/muril-large-cased
+398131	None	google/muril-large-cased
+815971	None	google/muril-large-cased
+6226	Abusive	google/muril-large-cased
+842029	Abusive	google/muril-large-cased
+230916	None	google/muril-large-cased
+358091	None	google/muril-large-cased
+118655	None	google/muril-large-cased
+81123	None	google/muril-large-cased
+424563	Profane	google/muril-large-cased
+355947	None	google/muril-large-cased
+539022	None	google/muril-large-cased
+876492	None	google/muril-large-cased
+532223	Profane	google/muril-large-cased
+267304	Abusive	google/muril-large-cased
+361656	None	google/muril-large-cased
+175343	Abusive	google/muril-large-cased
+499169	Sexism	google/muril-large-cased
+425601	None	google/muril-large-cased
+336568	Abusive	google/muril-large-cased
+244155	None	google/muril-large-cased
+25339	None	google/muril-large-cased
+843785	None	google/muril-large-cased
+816856	Abusive	google/muril-large-cased
+466827	Abusive	google/muril-large-cased
+30825	None	google/muril-large-cased
+914046	None	google/muril-large-cased
+305092	None	google/muril-large-cased
+731052	None	google/muril-large-cased
+331086	None	google/muril-large-cased
+80707	Abusive	google/muril-large-cased
+700511	Sexism	google/muril-large-cased
+759244	Religious Hate	google/muril-large-cased
+273391	Political Hate	google/muril-large-cased
+157560	Abusive	google/muril-large-cased
+666349	None	google/muril-large-cased
+118868	Abusive	google/muril-large-cased
+919196	Abusive	google/muril-large-cased
+193304	Political Hate	google/muril-large-cased
+125720	None	google/muril-large-cased
+512574	None	google/muril-large-cased
+938099	None	google/muril-large-cased
+714519	None	google/muril-large-cased
+743493	None	google/muril-large-cased
+491880	None	google/muril-large-cased
+840307	Abusive	google/muril-large-cased
+334019	None	google/muril-large-cased
+576203	Profane	google/muril-large-cased
+762331	None	google/muril-large-cased
+421390	Abusive	google/muril-large-cased
+828741	Abusive	google/muril-large-cased
+357634	None	google/muril-large-cased
+678272	None	google/muril-large-cased
+330446	Abusive	google/muril-large-cased
+566240	None	google/muril-large-cased
+829440	None	google/muril-large-cased
+838151	None	google/muril-large-cased
+358884	None	google/muril-large-cased
+397727	None	google/muril-large-cased
+171669	Political Hate	google/muril-large-cased
+288289	Abusive	google/muril-large-cased
+187431	None	google/muril-large-cased
+512049	None	google/muril-large-cased
+335567	Abusive	google/muril-large-cased
+383736	None	google/muril-large-cased
+535883	None	google/muril-large-cased
+392091	None	google/muril-large-cased
+454762	Profane	google/muril-large-cased
+614159	None	google/muril-large-cased
+562152	None	google/muril-large-cased
+483412	Sexism	google/muril-large-cased
+537925	Abusive	google/muril-large-cased
+834167	None	google/muril-large-cased
+875193	None	google/muril-large-cased
+456722	Abusive	google/muril-large-cased
+516282	None	google/muril-large-cased
+257527	None	google/muril-large-cased
+148896	None	google/muril-large-cased
+760507	None	google/muril-large-cased
+922414	Profane	google/muril-large-cased
+638043	Abusive	google/muril-large-cased
+173467	None	google/muril-large-cased
+195178	Political Hate	google/muril-large-cased
+147724	Abusive	google/muril-large-cased
+194025	Abusive	google/muril-large-cased
+624059	None	google/muril-large-cased
+107088	None	google/muril-large-cased
+43696	None	google/muril-large-cased
+527548	None	google/muril-large-cased
+43059	None	google/muril-large-cased
+194552	Profane	google/muril-large-cased
+895821	None	google/muril-large-cased
+91	Abusive	google/muril-large-cased
+431755	None	google/muril-large-cased
+563191	None	google/muril-large-cased
+679996	Abusive	google/muril-large-cased
+738155	None	google/muril-large-cased
+463056	None	google/muril-large-cased
+533553	None	google/muril-large-cased
+908606	None	google/muril-large-cased
+459309	None	google/muril-large-cased
+630443	Profane	google/muril-large-cased
+347222	None	google/muril-large-cased
+675724	None	google/muril-large-cased
+83975	Political Hate	google/muril-large-cased
+296851	None	google/muril-large-cased
+535172	Religious Hate	google/muril-large-cased
+75581	Profane	google/muril-large-cased
+461746	Profane	google/muril-large-cased
+874016	None	google/muril-large-cased
+20045	Political Hate	google/muril-large-cased
+253489	Abusive	google/muril-large-cased
+553524	None	google/muril-large-cased
+57367	Profane	google/muril-large-cased
+167339	None	google/muril-large-cased
+594894	Political Hate	google/muril-large-cased
+452023	Abusive	google/muril-large-cased
+795964	None	google/muril-large-cased
+765992	None	google/muril-large-cased
+508875	Abusive	google/muril-large-cased
+122727	Abusive	google/muril-large-cased
+11814	None	google/muril-large-cased
+544426	Religious Hate	google/muril-large-cased
+725077	None	google/muril-large-cased
+225212	Political Hate	google/muril-large-cased
+779008	None	google/muril-large-cased
+122184	None	google/muril-large-cased
+584554	None	google/muril-large-cased
+172329	None	google/muril-large-cased
+167317	None	google/muril-large-cased
+685147	None	google/muril-large-cased
+294261	None	google/muril-large-cased
+192130	None	google/muril-large-cased
+425529	None	google/muril-large-cased
+788604	Abusive	google/muril-large-cased
+501111	None	google/muril-large-cased
+139510	Abusive	google/muril-large-cased
+43771	Abusive	google/muril-large-cased
+144519	None	google/muril-large-cased
+915772	None	google/muril-large-cased
+411616	Political Hate	google/muril-large-cased
+475013	None	google/muril-large-cased
+809205	None	google/muril-large-cased
+541359	None	google/muril-large-cased
+845267	Abusive	google/muril-large-cased
+113755	None	google/muril-large-cased
+568511	None	google/muril-large-cased
+59618	Abusive	google/muril-large-cased
+803177	Religious Hate	google/muril-large-cased
+858819	None	google/muril-large-cased
+438940	Abusive	google/muril-large-cased
+570407	Profane	google/muril-large-cased
+129788	None	google/muril-large-cased
+840086	None	google/muril-large-cased
+637172	Abusive	google/muril-large-cased
+821993	Abusive	google/muril-large-cased
+325856	Political Hate	google/muril-large-cased
+359155	None	google/muril-large-cased
+899842	None	google/muril-large-cased
+660308	None	google/muril-large-cased
+861989	Profane	google/muril-large-cased
+605443	Abusive	google/muril-large-cased
+27739	None	google/muril-large-cased
+580148	Political Hate	google/muril-large-cased
+528215	None	google/muril-large-cased
+528712	Sexism	google/muril-large-cased
+100208	Political Hate	google/muril-large-cased
+350796	None	google/muril-large-cased
+307708	Profane	google/muril-large-cased
+162719	None	google/muril-large-cased
+121889	Abusive	google/muril-large-cased
+612317	None	google/muril-large-cased
+223760	Political Hate	google/muril-large-cased
+405579	None	google/muril-large-cased
+618511	Abusive	google/muril-large-cased
+175761	None	google/muril-large-cased
+748125	None	google/muril-large-cased
+156891	Abusive	google/muril-large-cased
+592641	None	google/muril-large-cased
+726885	None	google/muril-large-cased
+4254	Abusive	google/muril-large-cased
+682514	None	google/muril-large-cased
+264638	Abusive	google/muril-large-cased
+534602	Abusive	google/muril-large-cased
+57614	Political Hate	google/muril-large-cased
+599800	Abusive	google/muril-large-cased
+732787	Religious Hate	google/muril-large-cased
+212119	Political Hate	google/muril-large-cased
+860927	None	google/muril-large-cased
+590074	Political Hate	google/muril-large-cased
+690276	None	google/muril-large-cased
+787556	None	google/muril-large-cased
+820252	None	google/muril-large-cased
+559717	None	google/muril-large-cased
+870003	Profane	google/muril-large-cased
+144906	Abusive	google/muril-large-cased
+133089	None	google/muril-large-cased
+591997	None	google/muril-large-cased
+395816	None	google/muril-large-cased
+844477	Sexism	google/muril-large-cased
+178300	None	google/muril-large-cased
+148894	None	google/muril-large-cased
+850484	Abusive	google/muril-large-cased
+860027	None	google/muril-large-cased
+247862	Political Hate	google/muril-large-cased
+312983	Profane	google/muril-large-cased
+122427	Sexism	google/muril-large-cased
+83755	Political Hate	google/muril-large-cased
+195967	Political Hate	google/muril-large-cased
+494458	None	google/muril-large-cased
+9228	None	google/muril-large-cased
+684602	None	google/muril-large-cased
+927791	None	google/muril-large-cased
+615666	Abusive	google/muril-large-cased
+599050	Abusive	google/muril-large-cased
+455023	None	google/muril-large-cased
+819948	None	google/muril-large-cased
+749193	Abusive	google/muril-large-cased
+623630	Abusive	google/muril-large-cased
+320310	None	google/muril-large-cased
+532308	None	google/muril-large-cased
+79033	Abusive	google/muril-large-cased
+689620	None	google/muril-large-cased
+503545	None	google/muril-large-cased
+880433	None	google/muril-large-cased
+566043	None	google/muril-large-cased
+146502	Political Hate	google/muril-large-cased
+659400	None	google/muril-large-cased
+134693	None	google/muril-large-cased
+147313	None	google/muril-large-cased
+793773	None	google/muril-large-cased
+269220	Abusive	google/muril-large-cased
+284822	None	google/muril-large-cased
+722881	Political Hate	google/muril-large-cased
+33435	Political Hate	google/muril-large-cased
+626585	None	google/muril-large-cased
+795133	None	google/muril-large-cased
+342079	None	google/muril-large-cased
+62264	None	google/muril-large-cased
+350128	Abusive	google/muril-large-cased
+586407	Abusive	google/muril-large-cased
+116562	None	google/muril-large-cased
+132059	None	google/muril-large-cased
+29850	None	google/muril-large-cased
+334210	Abusive	google/muril-large-cased
+807912	Religious Hate	google/muril-large-cased
+421928	Abusive	google/muril-large-cased
+609522	None	google/muril-large-cased
+896838	Profane	google/muril-large-cased
+623237	None	google/muril-large-cased
+289648	Political Hate	google/muril-large-cased
+426382	None	google/muril-large-cased
+260072	Abusive	google/muril-large-cased
+186438	None	google/muril-large-cased
+330719	None	google/muril-large-cased
+694232	Abusive	google/muril-large-cased
+659151	None	google/muril-large-cased
+723103	Political Hate	google/muril-large-cased
+269242	None	google/muril-large-cased
+658310	None	google/muril-large-cased
+284423	Political Hate	google/muril-large-cased
+471188	None	google/muril-large-cased
+321553	None	google/muril-large-cased
+23673	Abusive	google/muril-large-cased
+31466	None	google/muril-large-cased
+390734	None	google/muril-large-cased
+299334	Political Hate	google/muril-large-cased
+915160	None	google/muril-large-cased
+886892	None	google/muril-large-cased
+187567	None	google/muril-large-cased
+716122	None	google/muril-large-cased
+306552	None	google/muril-large-cased
+556825	None	google/muril-large-cased
+327323	Profane	google/muril-large-cased
+845725	Abusive	google/muril-large-cased
+832828	Political Hate	google/muril-large-cased
+614077	Political Hate	google/muril-large-cased
+861156	Abusive	google/muril-large-cased
+899235	None	google/muril-large-cased
+920682	None	google/muril-large-cased
+896115	None	google/muril-large-cased
+819642	None	google/muril-large-cased
+684624	Abusive	google/muril-large-cased
+671761	None	google/muril-large-cased
+199225	Abusive	google/muril-large-cased
+96018	None	google/muril-large-cased
+530720	None	google/muril-large-cased
+886768	None	google/muril-large-cased
+788454	Profane	google/muril-large-cased
+840793	None	google/muril-large-cased
+530660	Abusive	google/muril-large-cased
+764785	None	google/muril-large-cased
+510402	None	google/muril-large-cased
+797709	None	google/muril-large-cased
+154764	None	google/muril-large-cased
+758899	Abusive	google/muril-large-cased
+30625	None	google/muril-large-cased
+650748	Profane	google/muril-large-cased
+79978	None	google/muril-large-cased
+590113	None	google/muril-large-cased
+904047	None	google/muril-large-cased
+228881	None	google/muril-large-cased
+205983	Abusive	google/muril-large-cased
+638273	Abusive	google/muril-large-cased
+156553	Political Hate	google/muril-large-cased
+146868	None	google/muril-large-cased
+428917	Abusive	google/muril-large-cased
+5567	None	google/muril-large-cased
+385342	Sexism	google/muril-large-cased
+687821	Profane	google/muril-large-cased
+558622	Abusive	google/muril-large-cased
+520964	None	google/muril-large-cased
+635670	None	google/muril-large-cased
+308809	None	google/muril-large-cased
+864406	Abusive	google/muril-large-cased
+906662	Abusive	google/muril-large-cased
+575658	None	google/muril-large-cased
+394694	Abusive	google/muril-large-cased
+923350	Abusive	google/muril-large-cased
+46205	None	google/muril-large-cased
+855695	None	google/muril-large-cased
+486257	None	google/muril-large-cased
+276551	Profane	google/muril-large-cased
+587637	None	google/muril-large-cased
+647643	None	google/muril-large-cased
+148374	None	google/muril-large-cased
+657648	Abusive	google/muril-large-cased
+126155	None	google/muril-large-cased
+196609	Political Hate	google/muril-large-cased
+754547	None	google/muril-large-cased
+544929	None	google/muril-large-cased
+349354	None	google/muril-large-cased
+260051	Political Hate	google/muril-large-cased
+864433	None	google/muril-large-cased
+439970	Political Hate	google/muril-large-cased
+31197	None	google/muril-large-cased
+884727	None	google/muril-large-cased
+559768	None	google/muril-large-cased
+581342	Political Hate	google/muril-large-cased
+93295	Political Hate	google/muril-large-cased
+765866	Abusive	google/muril-large-cased
+52066	None	google/muril-large-cased
+150858	Abusive	google/muril-large-cased
+825788	Profane	google/muril-large-cased
+737745	None	google/muril-large-cased
+472075	None	google/muril-large-cased
+782014	None	google/muril-large-cased
+846878	Profane	google/muril-large-cased
+54711	None	google/muril-large-cased
+195057	None	google/muril-large-cased
+23737	None	google/muril-large-cased
+262183	Political Hate	google/muril-large-cased
+908109	None	google/muril-large-cased
+747650	None	google/muril-large-cased
+632080	None	google/muril-large-cased
+451953	None	google/muril-large-cased
+566719	Political Hate	google/muril-large-cased
+160977	None	google/muril-large-cased
+398536	None	google/muril-large-cased
+671041	None	google/muril-large-cased
+228691	Abusive	google/muril-large-cased
+215202	Sexism	google/muril-large-cased
+467926	None	google/muril-large-cased
+631408	Abusive	google/muril-large-cased
+57868	None	google/muril-large-cased
+192787	None	google/muril-large-cased
+336777	Political Hate	google/muril-large-cased
+890857	None	google/muril-large-cased
+691728	Political Hate	google/muril-large-cased
+831986	Abusive	google/muril-large-cased
+644832	Abusive	google/muril-large-cased
+859881	None	google/muril-large-cased
+386166	None	google/muril-large-cased
+411564	None	google/muril-large-cased
+196840	Political Hate	google/muril-large-cased
+26706	Political Hate	google/muril-large-cased
+24433	Profane	google/muril-large-cased
+294784	Abusive	google/muril-large-cased
+329873	None	google/muril-large-cased
+922916	None	google/muril-large-cased
+263428	Profane	google/muril-large-cased
+879502	Abusive	google/muril-large-cased
+171810	None	google/muril-large-cased
+146419	None	google/muril-large-cased
+11825	Abusive	google/muril-large-cased
+385459	Abusive	google/muril-large-cased
+837842	None	google/muril-large-cased
+707861	None	google/muril-large-cased
+256853	None	google/muril-large-cased
+304172	Abusive	google/muril-large-cased
+215264	None	google/muril-large-cased
+30430	Abusive	google/muril-large-cased
+247235	None	google/muril-large-cased
+370427	Abusive	google/muril-large-cased
+495671	None	google/muril-large-cased
+765184	Abusive	google/muril-large-cased
+317397	None	google/muril-large-cased
+456450	None	google/muril-large-cased
+858602	Religious Hate	google/muril-large-cased
+266349	Profane	google/muril-large-cased
+518935	None	google/muril-large-cased
+364371	None	google/muril-large-cased
+505254	None	google/muril-large-cased
+280647	None	google/muril-large-cased
+365047	Profane	google/muril-large-cased
+691389	Profane	google/muril-large-cased
+833835	None	google/muril-large-cased
+589316	None	google/muril-large-cased
+157497	None	google/muril-large-cased
+146479	None	google/muril-large-cased
+608667	Political Hate	google/muril-large-cased
+441810	None	google/muril-large-cased
+74035	Political Hate	google/muril-large-cased
+11550	Religious Hate	google/muril-large-cased
+915332	None	google/muril-large-cased
+688548	Profane	google/muril-large-cased
+714276	None	google/muril-large-cased
+770650	Abusive	google/muril-large-cased
+542146	None	google/muril-large-cased
+37206	None	google/muril-large-cased
+917447	Profane	google/muril-large-cased
+902552	None	google/muril-large-cased
+889894	Abusive	google/muril-large-cased
+631606	Political Hate	google/muril-large-cased
+218146	None	google/muril-large-cased
+292282	Political Hate	google/muril-large-cased
+115075	Abusive	google/muril-large-cased
+465124	None	google/muril-large-cased
+711695	None	google/muril-large-cased
+384706	None	google/muril-large-cased
+293660	Abusive	google/muril-large-cased
+647131	Profane	google/muril-large-cased
+841800	Political Hate	google/muril-large-cased
+254920	None	google/muril-large-cased
+294087	Profane	google/muril-large-cased
+68952	None	google/muril-large-cased
+636983	None	google/muril-large-cased
+214150	None	google/muril-large-cased
+600580	None	google/muril-large-cased
+135848	None	google/muril-large-cased
+490828	Abusive	google/muril-large-cased
+593064	Religious Hate	google/muril-large-cased
+527973	None	google/muril-large-cased
+146468	None	google/muril-large-cased
+580206	None	google/muril-large-cased
+589798	None	google/muril-large-cased
+493901	Abusive	google/muril-large-cased
+509747	None	google/muril-large-cased
+932687	None	google/muril-large-cased
+4249	Profane	google/muril-large-cased
+788252	None	google/muril-large-cased
+154911	Profane	google/muril-large-cased
+826374	None	google/muril-large-cased
+736209	None	google/muril-large-cased
+711052	Abusive	google/muril-large-cased
+931495	None	google/muril-large-cased
+513434	Sexism	google/muril-large-cased
+345031	None	google/muril-large-cased
+215334	None	google/muril-large-cased
+690423	None	google/muril-large-cased
+563512	Abusive	google/muril-large-cased
+251243	Abusive	google/muril-large-cased
+227927	None	google/muril-large-cased
+142569	Political Hate	google/muril-large-cased
+295213	Abusive	google/muril-large-cased
+596101	None	google/muril-large-cased
+936853	None	google/muril-large-cased
+801917	None	google/muril-large-cased
+857995	None	google/muril-large-cased
+95408	Abusive	google/muril-large-cased
+820682	Political Hate	google/muril-large-cased
+844359	None	google/muril-large-cased
+757905	Political Hate	google/muril-large-cased
+723055	None	google/muril-large-cased
+769948	None	google/muril-large-cased
+243442	Political Hate	google/muril-large-cased
+737797	None	google/muril-large-cased
+27139	None	google/muril-large-cased
+409048	Abusive	google/muril-large-cased
+72034	Profane	google/muril-large-cased
+571451	Abusive	google/muril-large-cased
+932604	None	google/muril-large-cased
+33535	Abusive	google/muril-large-cased
+122341	None	google/muril-large-cased
+545466	None	google/muril-large-cased
+499900	None	google/muril-large-cased
+409261	None	google/muril-large-cased
+34096	None	google/muril-large-cased
+644512	Abusive	google/muril-large-cased
+273846	None	google/muril-large-cased
+186411	Abusive	google/muril-large-cased
+13537	None	google/muril-large-cased
+307702	None	google/muril-large-cased
+638968	None	google/muril-large-cased
+598736	None	google/muril-large-cased
+53408	Profane	google/muril-large-cased
+921147	None	google/muril-large-cased
+66160	Profane	google/muril-large-cased
+83010	None	google/muril-large-cased
+740398	None	google/muril-large-cased
+780256	Abusive	google/muril-large-cased
+335046	Profane	google/muril-large-cased
+313351	Abusive	google/muril-large-cased
+920002	None	google/muril-large-cased
+37737	None	google/muril-large-cased
+404912	Political Hate	google/muril-large-cased
+168151	None	google/muril-large-cased
+578783	None	google/muril-large-cased
+82540	Abusive	google/muril-large-cased
+198428	None	google/muril-large-cased
+201290	Political Hate	google/muril-large-cased
+784990	Abusive	google/muril-large-cased
+248346	Abusive	google/muril-large-cased
+417267	Political Hate	google/muril-large-cased
+528918	Sexism	google/muril-large-cased
+56297	Abusive	google/muril-large-cased
+555695	None	google/muril-large-cased
+503608	None	google/muril-large-cased
+548666	None	google/muril-large-cased
+232167	Political Hate	google/muril-large-cased
+511977	None	google/muril-large-cased
+902284	None	google/muril-large-cased
+229235	Profane	google/muril-large-cased
+762354	Abusive	google/muril-large-cased
+454709	None	google/muril-large-cased
+180085	None	google/muril-large-cased
+11338	Abusive	google/muril-large-cased
+447030	None	google/muril-large-cased
+651116	None	google/muril-large-cased
+287127	None	google/muril-large-cased
+251561	Abusive	google/muril-large-cased
+434113	Profane	google/muril-large-cased
+888130	None	google/muril-large-cased
+919683	Abusive	google/muril-large-cased
+542440	None	google/muril-large-cased
+788941	Political Hate	google/muril-large-cased
+118010	Political Hate	google/muril-large-cased
+481002	None	google/muril-large-cased
+770890	None	google/muril-large-cased
+538540	None	google/muril-large-cased
+385860	None	google/muril-large-cased
+80855	Political Hate	google/muril-large-cased
+917595	Profane	google/muril-large-cased
+70927	Profane	google/muril-large-cased
+449971	None	google/muril-large-cased
+529876	None	google/muril-large-cased
+404923	Political Hate	google/muril-large-cased
+716044	Sexism	google/muril-large-cased
+235128	None	google/muril-large-cased
+414752	Abusive	google/muril-large-cased
+282830	None	google/muril-large-cased
+541766	None	google/muril-large-cased
+424715	None	google/muril-large-cased
+838616	None	google/muril-large-cased
+176833	None	google/muril-large-cased
+735992	None	google/muril-large-cased
+453195	Abusive	google/muril-large-cased
+479598	Political Hate	google/muril-large-cased
+740390	None	google/muril-large-cased
+695017	None	google/muril-large-cased
+76335	Abusive	google/muril-large-cased
+270852	Political Hate	google/muril-large-cased
+708065	None	google/muril-large-cased
+606816	Abusive	google/muril-large-cased
+206088	Political Hate	google/muril-large-cased
+212827	Abusive	google/muril-large-cased
+274373	None	google/muril-large-cased
+111258	None	google/muril-large-cased
+784002	Abusive	google/muril-large-cased
+211700	Abusive	google/muril-large-cased
+347583	Profane	google/muril-large-cased
+930859	Abusive	google/muril-large-cased
+316943	Abusive	google/muril-large-cased
+910354	Profane	google/muril-large-cased
+852545	None	google/muril-large-cased
+177572	Abusive	google/muril-large-cased
+547211	Abusive	google/muril-large-cased
+336934	None	google/muril-large-cased
+814651	Political Hate	google/muril-large-cased
+419915	None	google/muril-large-cased
+626302	None	google/muril-large-cased
+196688	None	google/muril-large-cased
+623013	None	google/muril-large-cased
+434820	None	google/muril-large-cased
+425654	Religious Hate	google/muril-large-cased
+79974	Profane	google/muril-large-cased
+386889	Abusive	google/muril-large-cased
+610277	Political Hate	google/muril-large-cased
+205726	Abusive	google/muril-large-cased
+620890	None	google/muril-large-cased
+767995	None	google/muril-large-cased
+809007	Abusive	google/muril-large-cased
+441520	None	google/muril-large-cased
+913659	Abusive	google/muril-large-cased
+360611	None	google/muril-large-cased
+287734	Political Hate	google/muril-large-cased
+905814	None	google/muril-large-cased
+815224	Abusive	google/muril-large-cased
+244696	Political Hate	google/muril-large-cased
+112362	Abusive	google/muril-large-cased
+837061	None	google/muril-large-cased
+469475	Abusive	google/muril-large-cased
+49053	None	google/muril-large-cased
+67722	Abusive	google/muril-large-cased
+862123	None	google/muril-large-cased
+359926	Abusive	google/muril-large-cased
+58467	None	google/muril-large-cased
+242064	None	google/muril-large-cased
+556969	Profane	google/muril-large-cased
+267300	None	google/muril-large-cased
+390626	None	google/muril-large-cased
+420135	Political Hate	google/muril-large-cased
+152122	None	google/muril-large-cased
+836236	None	google/muril-large-cased
+797488	Political Hate	google/muril-large-cased
+622909	None	google/muril-large-cased
+895011	None	google/muril-large-cased
+882194	Abusive	google/muril-large-cased
+75596	None	google/muril-large-cased
+392774	Political Hate	google/muril-large-cased
+697383	None	google/muril-large-cased
+37458	None	google/muril-large-cased
+341828	None	google/muril-large-cased
+580586	None	google/muril-large-cased
+704812	None	google/muril-large-cased
+499112	None	google/muril-large-cased
+937103	Abusive	google/muril-large-cased
+510980	Profane	google/muril-large-cased
+517470	Abusive	google/muril-large-cased
+425835	Political Hate	google/muril-large-cased
+847555	Political Hate	google/muril-large-cased
+55580	Sexism	google/muril-large-cased
+912551	Profane	google/muril-large-cased
+873778	None	google/muril-large-cased
+850066	None	google/muril-large-cased
+874043	None	google/muril-large-cased
+842140	Political Hate	google/muril-large-cased
+249516	None	google/muril-large-cased
+883107	Political Hate	google/muril-large-cased
+171088	None	google/muril-large-cased
+834348	Abusive	google/muril-large-cased
+260511	None	google/muril-large-cased
+747543	Abusive	google/muril-large-cased
+798061	None	google/muril-large-cased
+858296	None	google/muril-large-cased
+370524	None	google/muril-large-cased
+33709	None	google/muril-large-cased
+285570	None	google/muril-large-cased
+794925	None	google/muril-large-cased
+895463	None	google/muril-large-cased
+778909	None	google/muril-large-cased
+54033	Abusive	google/muril-large-cased
+789905	None	google/muril-large-cased
+928455	Abusive	google/muril-large-cased
+903244	None	google/muril-large-cased
+886945	None	google/muril-large-cased
+638355	Political Hate	google/muril-large-cased
+630520	None	google/muril-large-cased
+672070	None	google/muril-large-cased
+862937	None	google/muril-large-cased
+478805	None	google/muril-large-cased
+772528	Political Hate	google/muril-large-cased
+518431	None	google/muril-large-cased
+280350	None	google/muril-large-cased
+363404	None	google/muril-large-cased
+794248	None	google/muril-large-cased
+807255	None	google/muril-large-cased
+66980	Political Hate	google/muril-large-cased
+152001	Abusive	google/muril-large-cased
+781177	None	google/muril-large-cased
+447772	None	google/muril-large-cased
+99458	None	google/muril-large-cased
+828336	Abusive	google/muril-large-cased
+61667	Abusive	google/muril-large-cased
+750355	None	google/muril-large-cased
+59248	None	google/muril-large-cased
+706130	None	google/muril-large-cased
+247384	Abusive	google/muril-large-cased
+91256	Profane	google/muril-large-cased
+45198	Political Hate	google/muril-large-cased
+475615	None	google/muril-large-cased
+809901	None	google/muril-large-cased
+850232	Abusive	google/muril-large-cased
+928676	None	google/muril-large-cased
+354579	None	google/muril-large-cased
+702680	None	google/muril-large-cased
+140349	None	google/muril-large-cased
+369414	Political Hate	google/muril-large-cased
+890355	None	google/muril-large-cased
+827756	Abusive	google/muril-large-cased
+909607	Abusive	google/muril-large-cased
+650140	None	google/muril-large-cased
+936499	Political Hate	google/muril-large-cased
+632121	None	google/muril-large-cased
+130390	Profane	google/muril-large-cased
+748439	Abusive	google/muril-large-cased
+18941	None	google/muril-large-cased
+165040	None	google/muril-large-cased
+146666	None	google/muril-large-cased
+671364	None	google/muril-large-cased
+241643	Political Hate	google/muril-large-cased
+728148	None	google/muril-large-cased
+418768	Abusive	google/muril-large-cased
+507313	None	google/muril-large-cased
+122056	Political Hate	google/muril-large-cased
+429232	Political Hate	google/muril-large-cased
+936443	Abusive	google/muril-large-cased
+63195	None	google/muril-large-cased
+347924	None	google/muril-large-cased
+239634	None	google/muril-large-cased
+685874	Political Hate	google/muril-large-cased
+785301	Abusive	google/muril-large-cased
+205145	None	google/muril-large-cased
+895764	None	google/muril-large-cased
+744814	None	google/muril-large-cased
+711915	None	google/muril-large-cased
+538881	Abusive	google/muril-large-cased
+423994	None	google/muril-large-cased
+747992	None	google/muril-large-cased
+907822	None	google/muril-large-cased
+319476	None	google/muril-large-cased
+328982	None	google/muril-large-cased
+920039	None	google/muril-large-cased
+14595	None	google/muril-large-cased
+316259	Profane	google/muril-large-cased
+874684	Profane	google/muril-large-cased
+147374	Political Hate	google/muril-large-cased
+580566	None	google/muril-large-cased
+309030	Profane	google/muril-large-cased
+115329	Political Hate	google/muril-large-cased
+196330	None	google/muril-large-cased
+493326	None	google/muril-large-cased
+312918	None	google/muril-large-cased
+202721	None	google/muril-large-cased
+350137	None	google/muril-large-cased
+534191	None	google/muril-large-cased
+906802	Abusive	google/muril-large-cased
+264542	Abusive	google/muril-large-cased
+617888	Political Hate	google/muril-large-cased
+860457	None	google/muril-large-cased
+420009	None	google/muril-large-cased
+787063	None	google/muril-large-cased
+785414	Religious Hate	google/muril-large-cased
+81862	Profane	google/muril-large-cased
+662064	None	google/muril-large-cased
+827901	Abusive	google/muril-large-cased
+142369	None	google/muril-large-cased
+758258	None	google/muril-large-cased
+863008	Abusive	google/muril-large-cased
+844816	None	google/muril-large-cased
+788206	None	google/muril-large-cased
+88124	None	google/muril-large-cased
+480429	None	google/muril-large-cased
+849632	None	google/muril-large-cased
+923478	Abusive	google/muril-large-cased
+135535	None	google/muril-large-cased
+182108	Abusive	google/muril-large-cased
+377804	None	google/muril-large-cased
+556981	None	google/muril-large-cased
+682191	None	google/muril-large-cased
+296481	None	google/muril-large-cased
+258690	Political Hate	google/muril-large-cased
+648686	None	google/muril-large-cased
+146254	None	google/muril-large-cased
+191274	Political Hate	google/muril-large-cased
+685372	None	google/muril-large-cased
+150193	None	google/muril-large-cased
+161821	Abusive	google/muril-large-cased
+143688	None	google/muril-large-cased
+133473	None	google/muril-large-cased
+380049	None	google/muril-large-cased
+340559	None	google/muril-large-cased
+100142	None	google/muril-large-cased
+317419	Abusive	google/muril-large-cased
+717800	None	google/muril-large-cased
+477055	Sexism	google/muril-large-cased
+496575	Abusive	google/muril-large-cased
+855557	None	google/muril-large-cased
+276303	Political Hate	google/muril-large-cased
+351198	Profane	google/muril-large-cased
+829783	Abusive	google/muril-large-cased
+367132	Profane	google/muril-large-cased
+641785	Abusive	google/muril-large-cased
+379053	Abusive	google/muril-large-cased
+593153	Abusive	google/muril-large-cased
+532096	None	google/muril-large-cased
+541335	None	google/muril-large-cased
+555100	Political Hate	google/muril-large-cased
+248630	Profane	google/muril-large-cased
+755985	Abusive	google/muril-large-cased
+330068	Political Hate	google/muril-large-cased
+748877	None	google/muril-large-cased
+225802	None	google/muril-large-cased
+865982	None	google/muril-large-cased
+471207	None	google/muril-large-cased
+455365	None	google/muril-large-cased
+672031	None	google/muril-large-cased
+885735	None	google/muril-large-cased
+41893	Political Hate	google/muril-large-cased
+260881	None	google/muril-large-cased
+774654	None	google/muril-large-cased
+440552	Political Hate	google/muril-large-cased
+283397	None	google/muril-large-cased
+882150	None	google/muril-large-cased
+760852	None	google/muril-large-cased
+884094	None	google/muril-large-cased
+741510	None	google/muril-large-cased
+560164	Profane	google/muril-large-cased
+477574	None	google/muril-large-cased
+15942	None	google/muril-large-cased
+340456	None	google/muril-large-cased
+414341	None	google/muril-large-cased
+196955	None	google/muril-large-cased
+191208	None	google/muril-large-cased
+244900	Abusive	google/muril-large-cased
+125453	Political Hate	google/muril-large-cased
+330381	Abusive	google/muril-large-cased
+844322	None	google/muril-large-cased
+742255	Abusive	google/muril-large-cased
+531576	None	google/muril-large-cased
+804997	None	google/muril-large-cased
+572040	Political Hate	google/muril-large-cased
+12508	None	google/muril-large-cased
+13692	None	google/muril-large-cased
+431332	None	google/muril-large-cased
+222805	Abusive	google/muril-large-cased
+575884	Abusive	google/muril-large-cased
+526093	None	google/muril-large-cased
+440877	None	google/muril-large-cased
+599709	None	google/muril-large-cased
+864563	None	google/muril-large-cased
+78839	Abusive	google/muril-large-cased
+111	None	google/muril-large-cased
+95463	Abusive	google/muril-large-cased
+495836	None	google/muril-large-cased
+853192	Abusive	google/muril-large-cased
+645187	Abusive	google/muril-large-cased
+716428	Abusive	google/muril-large-cased
+70540	Abusive	google/muril-large-cased
+620335	None	google/muril-large-cased
+618922	None	google/muril-large-cased
+292521	None	google/muril-large-cased
+374329	None	google/muril-large-cased
+749851	None	google/muril-large-cased
+786718	None	google/muril-large-cased
+243476	Political Hate	google/muril-large-cased
+309574	Abusive	google/muril-large-cased
+502189	Political Hate	google/muril-large-cased
+310058	None	google/muril-large-cased
+547459	Political Hate	google/muril-large-cased
+669697	None	google/muril-large-cased
+615307	None	google/muril-large-cased
+886670	None	google/muril-large-cased
+342705	None	google/muril-large-cased
+545877	Abusive	google/muril-large-cased
+463794	None	google/muril-large-cased
+796637	Religious Hate	google/muril-large-cased
+468421	Abusive	google/muril-large-cased
+852941	None	google/muril-large-cased
+5937	Abusive	google/muril-large-cased
+848908	Political Hate	google/muril-large-cased
+935715	None	google/muril-large-cased
+635119	Abusive	google/muril-large-cased
+200107	Political Hate	google/muril-large-cased
+833350	None	google/muril-large-cased
+610487	Abusive	google/muril-large-cased
+877527	None	google/muril-large-cased
+602480	None	google/muril-large-cased
+481722	Religious Hate	google/muril-large-cased
+489986	Profane	google/muril-large-cased
+720093	None	google/muril-large-cased
+924402	None	google/muril-large-cased
+911276	None	google/muril-large-cased
+696728	None	google/muril-large-cased
+506533	Abusive	google/muril-large-cased
+878562	Abusive	google/muril-large-cased
+523281	None	google/muril-large-cased
+896755	None	google/muril-large-cased
+598409	Abusive	google/muril-large-cased
+831752	None	google/muril-large-cased
+322711	Profane	google/muril-large-cased
+61823	None	google/muril-large-cased
+811164	None	google/muril-large-cased
+549355	Profane	google/muril-large-cased
+829055	Abusive	google/muril-large-cased
+380227	None	google/muril-large-cased
+932515	None	google/muril-large-cased
+472535	None	google/muril-large-cased
+60136	None	google/muril-large-cased
+339636	Abusive	google/muril-large-cased
+575878	Abusive	google/muril-large-cased
+378299	None	google/muril-large-cased
+193320	None	google/muril-large-cased
+738016	None	google/muril-large-cased
+189787	None	google/muril-large-cased
+335516	Abusive	google/muril-large-cased
+283644	Abusive	google/muril-large-cased
+244035	Sexism	google/muril-large-cased
+679551	Political Hate	google/muril-large-cased
+737260	None	google/muril-large-cased
+566789	Political Hate	google/muril-large-cased
+701258	Political Hate	google/muril-large-cased
+78373	Abusive	google/muril-large-cased
+88648	None	google/muril-large-cased
+816345	Political Hate	google/muril-large-cased
+203094	Political Hate	google/muril-large-cased
+115932	None	google/muril-large-cased
+383904	None	google/muril-large-cased
+896076	None	google/muril-large-cased
+280078	None	google/muril-large-cased
+853897	Political Hate	google/muril-large-cased
+651831	Political Hate	google/muril-large-cased
+241704	Political Hate	google/muril-large-cased
+467218	None	google/muril-large-cased
+348851	Abusive	google/muril-large-cased
+39268	None	google/muril-large-cased
+195742	Abusive	google/muril-large-cased
+624006	Political Hate	google/muril-large-cased
+821714	None	google/muril-large-cased
+932881	None	google/muril-large-cased
+927697	Abusive	google/muril-large-cased
+561831	Political Hate	google/muril-large-cased
+147405	None	google/muril-large-cased
+494714	None	google/muril-large-cased
+94452	None	google/muril-large-cased
+109748	Abusive	google/muril-large-cased
+178516	None	google/muril-large-cased
+523045	Abusive	google/muril-large-cased
+929718	Profane	google/muril-large-cased
+7512	Abusive	google/muril-large-cased
+497912	Abusive	google/muril-large-cased
+3934	Political Hate	google/muril-large-cased
+266354	Political Hate	google/muril-large-cased
+50344	Religious Hate	google/muril-large-cased
+546395	None	google/muril-large-cased
+859986	Abusive	google/muril-large-cased
+95001	Profane	google/muril-large-cased
+228080	None	google/muril-large-cased
+102582	Political Hate	google/muril-large-cased
+807409	None	google/muril-large-cased
+935706	Abusive	google/muril-large-cased
+385956	None	google/muril-large-cased
+876039	None	google/muril-large-cased
+157415	None	google/muril-large-cased
+205465	Profane	google/muril-large-cased
+615005	Political Hate	google/muril-large-cased
+240869	None	google/muril-large-cased
+372994	Religious Hate	google/muril-large-cased
+444019	Abusive	google/muril-large-cased
+472721	None	google/muril-large-cased
+901710	Abusive	google/muril-large-cased
+123394	Profane	google/muril-large-cased
+758190	Political Hate	google/muril-large-cased
+828286	Profane	google/muril-large-cased
+107763	Abusive	google/muril-large-cased
+676389	Abusive	google/muril-large-cased
+923219	None	google/muril-large-cased
+886300	None	google/muril-large-cased
+41268	None	google/muril-large-cased
+452043	Abusive	google/muril-large-cased
+24785	None	google/muril-large-cased
+214082	Political Hate	google/muril-large-cased
+139162	None	google/muril-large-cased
+760971	None	google/muril-large-cased
+12874	Abusive	google/muril-large-cased
+716891	None	google/muril-large-cased
+359727	Religious Hate	google/muril-large-cased
+114631	Political Hate	google/muril-large-cased
+801584	None	google/muril-large-cased
+634663	None	google/muril-large-cased
+62360	None	google/muril-large-cased
+48313	Abusive	google/muril-large-cased
+34938	None	google/muril-large-cased
+675816	None	google/muril-large-cased
+414879	None	google/muril-large-cased
+640288	None	google/muril-large-cased
+94822	Abusive	google/muril-large-cased
+166996	None	google/muril-large-cased
+120572	Sexism	google/muril-large-cased
+111193	Abusive	google/muril-large-cased
+369225	None	google/muril-large-cased
+184411	Political Hate	google/muril-large-cased
+707555	None	google/muril-large-cased
+566720	Profane	google/muril-large-cased
+140176	None	google/muril-large-cased
+38817	Abusive	google/muril-large-cased
+227515	Political Hate	google/muril-large-cased
+899295	None	google/muril-large-cased
+926615	Political Hate	google/muril-large-cased
+221727	None	google/muril-large-cased
+70567	Abusive	google/muril-large-cased
+465292	None	google/muril-large-cased
+769162	None	google/muril-large-cased
+848690	Profane	google/muril-large-cased
+119707	None	google/muril-large-cased
+931034	Political Hate	google/muril-large-cased
+79612	None	google/muril-large-cased
+135661	Abusive	google/muril-large-cased
+738000	None	google/muril-large-cased
+35449	Abusive	google/muril-large-cased
+763819	Abusive	google/muril-large-cased
+53316	None	google/muril-large-cased
+466063	Political Hate	google/muril-large-cased
+348338	None	google/muril-large-cased
+934615	None	google/muril-large-cased
+834548	Abusive	google/muril-large-cased
+180175	None	google/muril-large-cased
+228243	None	google/muril-large-cased
+826578	Political Hate	google/muril-large-cased
+185010	Political Hate	google/muril-large-cased
+639126	Political Hate	google/muril-large-cased
+849059	Political Hate	google/muril-large-cased
+856980	None	google/muril-large-cased
+388739	Abusive	google/muril-large-cased
+835399	Profane	google/muril-large-cased
+765271	None	google/muril-large-cased
+244804	None	google/muril-large-cased
+867962	None	google/muril-large-cased
+741333	None	google/muril-large-cased
+249350	None	google/muril-large-cased
+713791	None	google/muril-large-cased
+306999	None	google/muril-large-cased
+28556	Political Hate	google/muril-large-cased
+74299	Abusive	google/muril-large-cased
+314054	Profane	google/muril-large-cased
+558703	None	google/muril-large-cased
+14963	Abusive	google/muril-large-cased
+422635	None	google/muril-large-cased
+470543	Profane	google/muril-large-cased
+570107	None	google/muril-large-cased
+729521	Profane	google/muril-large-cased
+567295	Political Hate	google/muril-large-cased
+44606	Abusive	google/muril-large-cased
+561963	None	google/muril-large-cased
+630365	None	google/muril-large-cased
+903565	None	google/muril-large-cased
+738879	None	google/muril-large-cased
+390607	None	google/muril-large-cased
+692550	None	google/muril-large-cased
+55949	Abusive	google/muril-large-cased
+454064	None	google/muril-large-cased
+837235	None	google/muril-large-cased
+371918	None	google/muril-large-cased
+848781	Abusive	google/muril-large-cased
+912473	None	google/muril-large-cased
+469957	None	google/muril-large-cased
+110797	Sexism	google/muril-large-cased
+693434	Abusive	google/muril-large-cased
+78406	None	google/muril-large-cased
+46963	None	google/muril-large-cased
+57709	Profane	google/muril-large-cased
+789298	Abusive	google/muril-large-cased
+809835	None	google/muril-large-cased
+214396	Profane	google/muril-large-cased
+622943	None	google/muril-large-cased
+443407	None	google/muril-large-cased
+327587	Abusive	google/muril-large-cased
+437844	Abusive	google/muril-large-cased
+221872	Religious Hate	google/muril-large-cased
+336045	None	google/muril-large-cased
+375881	None	google/muril-large-cased
+430379	Political Hate	google/muril-large-cased
+169430	None	google/muril-large-cased
+294172	None	google/muril-large-cased
+89541	None	google/muril-large-cased
+268632	Abusive	google/muril-large-cased
+805518	None	google/muril-large-cased
+566818	Political Hate	google/muril-large-cased
+607062	Abusive	google/muril-large-cased
+867573	None	google/muril-large-cased
+605692	Political Hate	google/muril-large-cased
+326477	Abusive	google/muril-large-cased
+509063	None	google/muril-large-cased
+232984	None	google/muril-large-cased
+153943	Political Hate	google/muril-large-cased
+689880	Political Hate	google/muril-large-cased
+319374	None	google/muril-large-cased
+742836	None	google/muril-large-cased
+238027	Political Hate	google/muril-large-cased
+293070	Religious Hate	google/muril-large-cased
+852509	Sexism	google/muril-large-cased
+113697	None	google/muril-large-cased
+404559	Political Hate	google/muril-large-cased
+367504	Abusive	google/muril-large-cased
+312455	Abusive	google/muril-large-cased
+95986	None	google/muril-large-cased
+250108	Abusive	google/muril-large-cased
+306720	Abusive	google/muril-large-cased
+827471	None	google/muril-large-cased
+409654	Profane	google/muril-large-cased
+179580	None	google/muril-large-cased
+54157	Abusive	google/muril-large-cased
+565214	None	google/muril-large-cased
+157628	None	google/muril-large-cased
+524389	None	google/muril-large-cased
+625151	Political Hate	google/muril-large-cased
+41456	None	google/muril-large-cased
+809670	Profane	google/muril-large-cased
+470773	None	google/muril-large-cased
+139862	Abusive	google/muril-large-cased
+526507	Abusive	google/muril-large-cased
+788998	None	google/muril-large-cased
+360237	None	google/muril-large-cased
+851562	None	google/muril-large-cased
+672289	Abusive	google/muril-large-cased
+748338	Profane	google/muril-large-cased
+160373	None	google/muril-large-cased
+722951	Abusive	google/muril-large-cased
+57770	Religious Hate	google/muril-large-cased
+826087	None	google/muril-large-cased
+374588	Abusive	google/muril-large-cased
+410682	Political Hate	google/muril-large-cased
+772372	None	google/muril-large-cased
+84041	Profane	google/muril-large-cased
+216995	Abusive	google/muril-large-cased
+463848	None	google/muril-large-cased
+478943	None	google/muril-large-cased
+742536	None	google/muril-large-cased
+642569	Abusive	google/muril-large-cased
+178538	None	google/muril-large-cased
+489884	None	google/muril-large-cased
+656697	None	google/muril-large-cased
+309209	None	google/muril-large-cased
+887989	None	google/muril-large-cased
+660054	None	google/muril-large-cased
+210475	None	google/muril-large-cased
+209867	Profane	google/muril-large-cased
+467547	None	google/muril-large-cased
+851586	Political Hate	google/muril-large-cased
+14311	None	google/muril-large-cased
+793203	Abusive	google/muril-large-cased
+123927	None	google/muril-large-cased
+717771	None	google/muril-large-cased
+584197	None	google/muril-large-cased
+79868	None	google/muril-large-cased
+516666	Abusive	google/muril-large-cased
+723962	None	google/muril-large-cased
+14579	Abusive	google/muril-large-cased
+257737	None	google/muril-large-cased
+540902	None	google/muril-large-cased
+508957	Sexism	google/muril-large-cased
+41334	Abusive	google/muril-large-cased
+465546	Abusive	google/muril-large-cased
+526152	None	google/muril-large-cased
+282038	Abusive	google/muril-large-cased
+911747	Profane	google/muril-large-cased
+709732	None	google/muril-large-cased
+151980	None	google/muril-large-cased
+257257	Abusive	google/muril-large-cased
+843966	Abusive	google/muril-large-cased
+464017	None	google/muril-large-cased
+619782	Political Hate	google/muril-large-cased
+284724	None	google/muril-large-cased
+134346	None	google/muril-large-cased
+255352	None	google/muril-large-cased
+483319	None	google/muril-large-cased
+540781	None	google/muril-large-cased
+339456	Abusive	google/muril-large-cased
+193515	None	google/muril-large-cased
+493695	None	google/muril-large-cased
+627681	None	google/muril-large-cased
+756726	Religious Hate	google/muril-large-cased
+405826	None	google/muril-large-cased
+815800	Political Hate	google/muril-large-cased
+774003	None	google/muril-large-cased
+928355	None	google/muril-large-cased
+105802	Abusive	google/muril-large-cased
+849930	Abusive	google/muril-large-cased
+314150	Profane	google/muril-large-cased
+118315	Political Hate	google/muril-large-cased
+594020	None	google/muril-large-cased
+930997	None	google/muril-large-cased
+878173	None	google/muril-large-cased
+745693	Abusive	google/muril-large-cased
+88560	None	google/muril-large-cased
+837331	Profane	google/muril-large-cased
+313856	Abusive	google/muril-large-cased
+721573	None	google/muril-large-cased
+885365	Abusive	google/muril-large-cased
+548204	Political Hate	google/muril-large-cased
+377118	Abusive	google/muril-large-cased
+649908	None	google/muril-large-cased
+626634	None	google/muril-large-cased
+719540	None	google/muril-large-cased
+155405	None	google/muril-large-cased
+625156	Political Hate	google/muril-large-cased
+731578	Political Hate	google/muril-large-cased
+248789	None	google/muril-large-cased
+812915	None	google/muril-large-cased
+639994	Political Hate	google/muril-large-cased
+243292	None	google/muril-large-cased
+308220	None	google/muril-large-cased
+411431	None	google/muril-large-cased
+418309	Profane	google/muril-large-cased
+619262	None	google/muril-large-cased
+564804	Political Hate	google/muril-large-cased
+506045	Abusive	google/muril-large-cased
+81503	None	google/muril-large-cased
+268827	Abusive	google/muril-large-cased
+909369	None	google/muril-large-cased
+803096	None	google/muril-large-cased
+583923	None	google/muril-large-cased
+493493	None	google/muril-large-cased
+890157	Abusive	google/muril-large-cased
+225488	Political Hate	google/muril-large-cased
+291584	None	google/muril-large-cased
+7001	None	google/muril-large-cased
+848619	None	google/muril-large-cased
+873544	None	google/muril-large-cased
+871485	Sexism	google/muril-large-cased
+515296	None	google/muril-large-cased
+17928	Abusive	google/muril-large-cased
+799555	Profane	google/muril-large-cased
+906324	Political Hate	google/muril-large-cased
+416633	None	google/muril-large-cased
+936028	None	google/muril-large-cased
+938949	None	google/muril-large-cased
+120599	Political Hate	google/muril-large-cased
+743154	None	google/muril-large-cased
+588338	None	google/muril-large-cased
+278691	Political Hate	google/muril-large-cased
+209557	None	google/muril-large-cased
+572974	Political Hate	google/muril-large-cased
+707146	Abusive	google/muril-large-cased
+682574	None	google/muril-large-cased
+897946	Abusive	google/muril-large-cased
+594930	Political Hate	google/muril-large-cased
+177580	None	google/muril-large-cased
+446305	Political Hate	google/muril-large-cased
+642522	None	google/muril-large-cased
+710229	None	google/muril-large-cased
+109650	Political Hate	google/muril-large-cased
+166059	None	google/muril-large-cased
+324766	Profane	google/muril-large-cased
+274593	Political Hate	google/muril-large-cased
+732149	None	google/muril-large-cased
+922697	None	google/muril-large-cased
+436440	None	google/muril-large-cased
+147243	None	google/muril-large-cased
+113041	Political Hate	google/muril-large-cased
+136214	None	google/muril-large-cased
+459985	Religious Hate	google/muril-large-cased
+14811	None	google/muril-large-cased
+87990	Abusive	google/muril-large-cased
+888281	None	google/muril-large-cased
+142305	None	google/muril-large-cased
+40807	None	google/muril-large-cased
+379491	None	google/muril-large-cased
+748378	Abusive	google/muril-large-cased
+189272	Abusive	google/muril-large-cased
+462995	Political Hate	google/muril-large-cased
+238640	Abusive	google/muril-large-cased
+624763	Political Hate	google/muril-large-cased
+132838	None	google/muril-large-cased
+936999	None	google/muril-large-cased
+478162	None	google/muril-large-cased
+836153	None	google/muril-large-cased
+191692	Abusive	google/muril-large-cased
+144991	Abusive	google/muril-large-cased
+575280	Abusive	google/muril-large-cased
+767542	Profane	google/muril-large-cased
+938392	None	google/muril-large-cased
+625756	None	google/muril-large-cased
+591958	None	google/muril-large-cased
+777873	None	google/muril-large-cased
+382296	Abusive	google/muril-large-cased
+853958	Political Hate	google/muril-large-cased
+689376	None	google/muril-large-cased
+667476	Abusive	google/muril-large-cased
+555124	Abusive	google/muril-large-cased
+553769	Abusive	google/muril-large-cased
+779775	None	google/muril-large-cased
+175226	None	google/muril-large-cased
+221245	Political Hate	google/muril-large-cased
+357659	None	google/muril-large-cased
+19345	None	google/muril-large-cased
+359530	Political Hate	google/muril-large-cased
+897931	None	google/muril-large-cased
+730685	None	google/muril-large-cased
+112406	Political Hate	google/muril-large-cased
+931965	Sexism	google/muril-large-cased
+237018	None	google/muril-large-cased
+448776	None	google/muril-large-cased
+85034	Abusive	google/muril-large-cased
+311670	Abusive	google/muril-large-cased
+441297	Profane	google/muril-large-cased
+517000	None	google/muril-large-cased
+96319	Political Hate	google/muril-large-cased
+418882	Abusive	google/muril-large-cased
+155075	None	google/muril-large-cased
+12231	None	google/muril-large-cased
+413056	Abusive	google/muril-large-cased
+907236	None	google/muril-large-cased
+604934	Political Hate	google/muril-large-cased
+838580	None	google/muril-large-cased
+717687	None	google/muril-large-cased
+197189	Political Hate	google/muril-large-cased
+855820	Profane	google/muril-large-cased
+182568	None	google/muril-large-cased
+320842	None	google/muril-large-cased
+879729	None	google/muril-large-cased
+14189	Political Hate	google/muril-large-cased
+740123	None	google/muril-large-cased
+286498	Abusive	google/muril-large-cased
+453161	None	google/muril-large-cased
+698304	None	google/muril-large-cased
+569119	None	google/muril-large-cased
+395594	None	google/muril-large-cased
+540215	None	google/muril-large-cased
+771499	None	google/muril-large-cased
+18282	None	google/muril-large-cased
+438340	Abusive	google/muril-large-cased
+750831	None	google/muril-large-cased
+422062	None	google/muril-large-cased
+252381	Abusive	google/muril-large-cased
+128299	Profane	google/muril-large-cased
+82059	Political Hate	google/muril-large-cased
+440675	Abusive	google/muril-large-cased
+303717	None	google/muril-large-cased
+799599	None	google/muril-large-cased
+460943	None	google/muril-large-cased
+385684	Religious Hate	google/muril-large-cased
+279316	None	google/muril-large-cased
+775008	None	google/muril-large-cased
+591611	None	google/muril-large-cased
+381277	None	google/muril-large-cased
+784997	None	google/muril-large-cased
+491267	None	google/muril-large-cased
+899392	Abusive	google/muril-large-cased
+12717	Abusive	google/muril-large-cased
+494312	None	google/muril-large-cased
+103228	Political Hate	google/muril-large-cased
+295335	None	google/muril-large-cased
+316645	None	google/muril-large-cased
+645657	Abusive	google/muril-large-cased
+205048	Political Hate	google/muril-large-cased
+169403	Religious Hate	google/muril-large-cased
+471808	Religious Hate	google/muril-large-cased
+548377	Abusive	google/muril-large-cased
+574374	Political Hate	google/muril-large-cased
+376266	None	google/muril-large-cased
+137128	None	google/muril-large-cased
+84681	Abusive	google/muril-large-cased
+869682	None	google/muril-large-cased
+522322	Profane	google/muril-large-cased
+620454	None	google/muril-large-cased
+902649	None	google/muril-large-cased
+69156	None	google/muril-large-cased
+821418	Abusive	google/muril-large-cased
+299047	None	google/muril-large-cased
+470685	None	google/muril-large-cased
+174808	Political Hate	google/muril-large-cased
+926452	Abusive	google/muril-large-cased
+875164	None	google/muril-large-cased
+365347	Profane	google/muril-large-cased
+836477	Profane	google/muril-large-cased
+905476	None	google/muril-large-cased
+936688	None	google/muril-large-cased
+560260	Political Hate	google/muril-large-cased
+412196	Religious Hate	google/muril-large-cased
+520253	None	google/muril-large-cased
+2167	Abusive	google/muril-large-cased
+779149	Political Hate	google/muril-large-cased
+914749	None	google/muril-large-cased
+190492	None	google/muril-large-cased
+179549	None	google/muril-large-cased
+32044	Profane	google/muril-large-cased
+313219	None	google/muril-large-cased
+621571	None	google/muril-large-cased
+937290	Abusive	google/muril-large-cased
+308142	None	google/muril-large-cased
+815069	None	google/muril-large-cased
+186811	Political Hate	google/muril-large-cased
+771777	Political Hate	google/muril-large-cased
+33082	None	google/muril-large-cased
+403175	Political Hate	google/muril-large-cased
+482237	None	google/muril-large-cased
+167408	Political Hate	google/muril-large-cased
+424508	Abusive	google/muril-large-cased
+466439	None	google/muril-large-cased
+804184	Religious Hate	google/muril-large-cased
+889384	Political Hate	google/muril-large-cased
+80815	Political Hate	google/muril-large-cased
+343649	Political Hate	google/muril-large-cased
+358043	None	google/muril-large-cased
+612105	Political Hate	google/muril-large-cased
+62235	Abusive	google/muril-large-cased
+214701	Abusive	google/muril-large-cased
+864286	Profane	google/muril-large-cased
+33526	None	google/muril-large-cased
+461360	Abusive	google/muril-large-cased
+637121	Abusive	google/muril-large-cased
+539351	None	google/muril-large-cased
+442711	Profane	google/muril-large-cased
+854642	Abusive	google/muril-large-cased
+380082	None	google/muril-large-cased
+262039	None	google/muril-large-cased
+131765	None	google/muril-large-cased
+461120	None	google/muril-large-cased
+486207	None	google/muril-large-cased
+585797	None	google/muril-large-cased
+347925	None	google/muril-large-cased
+149746	None	google/muril-large-cased
+648789	None	google/muril-large-cased
+827712	None	google/muril-large-cased
+289491	Abusive	google/muril-large-cased
+114350	None	google/muril-large-cased
+647470	None	google/muril-large-cased
+628702	Abusive	google/muril-large-cased
+333078	None	google/muril-large-cased
+194388	Political Hate	google/muril-large-cased
+403332	None	google/muril-large-cased
+261772	None	google/muril-large-cased
+562636	Political Hate	google/muril-large-cased
+497449	None	google/muril-large-cased
+578764	None	google/muril-large-cased
+843620	None	google/muril-large-cased
+152036	Political Hate	google/muril-large-cased
+406570	None	google/muril-large-cased
+288559	None	google/muril-large-cased
+483883	Political Hate	google/muril-large-cased
+913373	None	google/muril-large-cased
+927437	None	google/muril-large-cased
+269342	Abusive	google/muril-large-cased
+885094	None	google/muril-large-cased
+721480	None	google/muril-large-cased
+849005	None	google/muril-large-cased
+498494	None	google/muril-large-cased
+476169	None	google/muril-large-cased
+450992	Abusive	google/muril-large-cased
+237824	None	google/muril-large-cased
+616971	None	google/muril-large-cased
+503134	None	google/muril-large-cased
+300697	None	google/muril-large-cased
+341752	None	google/muril-large-cased
+389232	None	google/muril-large-cased
+165711	None	google/muril-large-cased
+595882	None	google/muril-large-cased
+461321	None	google/muril-large-cased
+534246	Abusive	google/muril-large-cased
+167959	None	google/muril-large-cased
+663255	Abusive	google/muril-large-cased
+491560	None	google/muril-large-cased
+759859	None	google/muril-large-cased
+933842	None	google/muril-large-cased
+447129	None	google/muril-large-cased
+77357	None	google/muril-large-cased
+843342	None	google/muril-large-cased
+762831	Political Hate	google/muril-large-cased
+495779	Abusive	google/muril-large-cased
+110324	Political Hate	google/muril-large-cased
+748744	None	google/muril-large-cased
+267627	None	google/muril-large-cased
+28570	Profane	google/muril-large-cased
+114389	Sexism	google/muril-large-cased
+917265	Abusive	google/muril-large-cased
+861949	None	google/muril-large-cased
+835845	None	google/muril-large-cased
+817301	Political Hate	google/muril-large-cased
+155697	None	google/muril-large-cased
+776060	None	google/muril-large-cased
+140203	Profane	google/muril-large-cased
+551159	None	google/muril-large-cased
+303964	None	google/muril-large-cased
+359310	None	google/muril-large-cased
+814630	None	google/muril-large-cased
+724406	None	google/muril-large-cased
+345485	None	google/muril-large-cased
+923533	Profane	google/muril-large-cased
+879480	Abusive	google/muril-large-cased
+29455	Sexism	google/muril-large-cased
+6905	Profane	google/muril-large-cased
+857239	None	google/muril-large-cased
+375203	None	google/muril-large-cased
+239594	None	google/muril-large-cased
+397239	Religious Hate	google/muril-large-cased
+927497	None	google/muril-large-cased
+448887	None	google/muril-large-cased
+196093	Abusive	google/muril-large-cased
+707921	None	google/muril-large-cased
+141474	Political Hate	google/muril-large-cased
+244709	Abusive	google/muril-large-cased
+145485	None	google/muril-large-cased
+236687	None	google/muril-large-cased
+7891	None	google/muril-large-cased
+155340	None	google/muril-large-cased
+430072	None	google/muril-large-cased
+172675	None	google/muril-large-cased
+125198	Abusive	google/muril-large-cased
+53219	None	google/muril-large-cased
+741755	None	google/muril-large-cased
+527271	None	google/muril-large-cased
+452267	None	google/muril-large-cased
+760668	Political Hate	google/muril-large-cased
+618519	Abusive	google/muril-large-cased
+283486	None	google/muril-large-cased
+896974	Abusive	google/muril-large-cased
+391677	Abusive	google/muril-large-cased
+520670	None	google/muril-large-cased
+233592	Abusive	google/muril-large-cased
+755934	Profane	google/muril-large-cased
+384551	Political Hate	google/muril-large-cased
+589893	None	google/muril-large-cased
+286092	Profane	google/muril-large-cased
+87617	Profane	google/muril-large-cased
+110536	Political Hate	google/muril-large-cased
+52958	Abusive	google/muril-large-cased
+458404	None	google/muril-large-cased
+566519	Profane	google/muril-large-cased
+610780	None	google/muril-large-cased
+209532	None	google/muril-large-cased
+250419	Political Hate	google/muril-large-cased
+195314	None	google/muril-large-cased
+393437	Political Hate	google/muril-large-cased
+205708	Political Hate	google/muril-large-cased
+891127	None	google/muril-large-cased
+805521	None	google/muril-large-cased
+117548	None	google/muril-large-cased
+246624	Profane	google/muril-large-cased
+506244	None	google/muril-large-cased
+509687	Abusive	google/muril-large-cased
+289677	None	google/muril-large-cased
+335025	None	google/muril-large-cased
+822377	None	google/muril-large-cased
+527383	Profane	google/muril-large-cased
+424353	Sexism	google/muril-large-cased
+194135	None	google/muril-large-cased
+648640	None	google/muril-large-cased
+9427	None	google/muril-large-cased
+873869	Profane	google/muril-large-cased
+362074	Political Hate	google/muril-large-cased
+576729	None	google/muril-large-cased
+693527	None	google/muril-large-cased
+322553	None	google/muril-large-cased
+497543	None	google/muril-large-cased
+682727	None	google/muril-large-cased
+496534	None	google/muril-large-cased
+547405	Abusive	google/muril-large-cased
+586467	None	google/muril-large-cased
+109766	None	google/muril-large-cased
+364975	Profane	google/muril-large-cased
+652511	None	google/muril-large-cased
+132343	None	google/muril-large-cased
+927703	None	google/muril-large-cased
+560305	None	google/muril-large-cased
+710998	None	google/muril-large-cased
+683040	None	google/muril-large-cased
+242895	None	google/muril-large-cased
+1933	Profane	google/muril-large-cased
+486726	None	google/muril-large-cased
+666424	None	google/muril-large-cased
+339870	Profane	google/muril-large-cased
+4331	None	google/muril-large-cased
+839398	None	google/muril-large-cased
+382216	None	google/muril-large-cased
+496082	None	google/muril-large-cased
+684296	None	google/muril-large-cased
+114508	Abusive	google/muril-large-cased
+736996	None	google/muril-large-cased
+646381	Abusive	google/muril-large-cased
+262330	Political Hate	google/muril-large-cased
+289463	Profane	google/muril-large-cased
+622294	Political Hate	google/muril-large-cased
+269050	Abusive	google/muril-large-cased
+630616	Political Hate	google/muril-large-cased
+796750	Abusive	google/muril-large-cased
+256089	None	google/muril-large-cased
+909380	None	google/muril-large-cased
+778	None	google/muril-large-cased
+812526	None	google/muril-large-cased
+361081	None	google/muril-large-cased
+397486	None	google/muril-large-cased
+370000	Abusive	google/muril-large-cased
+424535	None	google/muril-large-cased
+715610	None	google/muril-large-cased
+109305	None	google/muril-large-cased
+809961	None	google/muril-large-cased
+93573	None	google/muril-large-cased
+313102	None	google/muril-large-cased
+595589	Abusive	google/muril-large-cased
+792217	Abusive	google/muril-large-cased
+401393	Abusive	google/muril-large-cased
+642501	Political Hate	google/muril-large-cased
+454025	Political Hate	google/muril-large-cased
+425967	None	google/muril-large-cased
+17514	Abusive	google/muril-large-cased
+173438	None	google/muril-large-cased
+492943	None	google/muril-large-cased
+432564	Sexism	google/muril-large-cased
+391327	Abusive	google/muril-large-cased
+683088	None	google/muril-large-cased
+218139	Abusive	google/muril-large-cased
+39131	None	google/muril-large-cased
+531057	None	google/muril-large-cased
+315983	Profane	google/muril-large-cased
+41430	None	google/muril-large-cased
+523176	Sexism	google/muril-large-cased
+419632	None	google/muril-large-cased
+914780	None	google/muril-large-cased
+729474	Abusive	google/muril-large-cased
+419256	None	google/muril-large-cased
+78729	None	google/muril-large-cased
+500711	None	google/muril-large-cased
+322905	None	google/muril-large-cased
+268247	Political Hate	google/muril-large-cased
+545088	None	google/muril-large-cased
+652752	None	google/muril-large-cased
+22670	None	google/muril-large-cased
+719828	None	google/muril-large-cased
+574934	Abusive	google/muril-large-cased
+566019	None	google/muril-large-cased
+716179	None	google/muril-large-cased
+10820	Political Hate	google/muril-large-cased
+304434	None	google/muril-large-cased
+870604	Abusive	google/muril-large-cased
+761622	Political Hate	google/muril-large-cased
+863110	None	google/muril-large-cased
+147674	Abusive	google/muril-large-cased
+10812	None	google/muril-large-cased
+312994	None	google/muril-large-cased
+875401	None	google/muril-large-cased
+734189	Abusive	google/muril-large-cased
+602118	Abusive	google/muril-large-cased
+65083	Political Hate	google/muril-large-cased
+892059	Profane	google/muril-large-cased
+463607	Abusive	google/muril-large-cased
+689129	None	google/muril-large-cased
+650278	None	google/muril-large-cased
+501371	Abusive	google/muril-large-cased
+739258	None	google/muril-large-cased
+692520	None	google/muril-large-cased
+508400	Abusive	google/muril-large-cased
+20488	None	google/muril-large-cased
+406730	Religious Hate	google/muril-large-cased
+436406	None	google/muril-large-cased
+331150	None	google/muril-large-cased
+120657	None	google/muril-large-cased
+924173	None	google/muril-large-cased
+105527	Profane	google/muril-large-cased
+745765	None	google/muril-large-cased
+717745	None	google/muril-large-cased
+726657	None	google/muril-large-cased
+354360	None	google/muril-large-cased
+46157	None	google/muril-large-cased
+280837	None	google/muril-large-cased
+189579	Political Hate	google/muril-large-cased
+863341	None	google/muril-large-cased
+427293	None	google/muril-large-cased
+51238	Profane	google/muril-large-cased
+258212	None	google/muril-large-cased
+886930	None	google/muril-large-cased
+570426	None	google/muril-large-cased
+278931	None	google/muril-large-cased
+510657	None	google/muril-large-cased
+602789	Political Hate	google/muril-large-cased
+866305	None	google/muril-large-cased
+934049	None	google/muril-large-cased
+146260	None	google/muril-large-cased
+168131	None	google/muril-large-cased
+710268	None	google/muril-large-cased
+201234	Political Hate	google/muril-large-cased
+137049	Abusive	google/muril-large-cased
+262717	None	google/muril-large-cased
+220124	None	google/muril-large-cased
+307806	Abusive	google/muril-large-cased
+605409	Sexism	google/muril-large-cased
+384402	None	google/muril-large-cased
+697635	None	google/muril-large-cased
+721472	Political Hate	google/muril-large-cased
+791762	None	google/muril-large-cased
+316652	None	google/muril-large-cased
+887215	None	google/muril-large-cased
+914909	Abusive	google/muril-large-cased
+685684	None	google/muril-large-cased
+326738	None	google/muril-large-cased
+841783	Abusive	google/muril-large-cased
+511643	Sexism	google/muril-large-cased
+40308	None	google/muril-large-cased
+838584	None	google/muril-large-cased
+746668	None	google/muril-large-cased
+145613	None	google/muril-large-cased
+257366	None	google/muril-large-cased
+706991	None	google/muril-large-cased
+761545	Political Hate	google/muril-large-cased
+314134	Profane	google/muril-large-cased
+742594	None	google/muril-large-cased
+480467	None	google/muril-large-cased
+166983	None	google/muril-large-cased
+246851	None	google/muril-large-cased
+509656	None	google/muril-large-cased
+810103	None	google/muril-large-cased
+306498	None	google/muril-large-cased
+458521	None	google/muril-large-cased
+194553	None	google/muril-large-cased
+577334	None	google/muril-large-cased
+919153	None	google/muril-large-cased
+323699	None	google/muril-large-cased
+301853	None	google/muril-large-cased
+272761	None	google/muril-large-cased
+387996	Religious Hate	google/muril-large-cased
+199317	Political Hate	google/muril-large-cased
+843517	None	google/muril-large-cased
+756751	Religious Hate	google/muril-large-cased
+802792	Abusive	google/muril-large-cased
+4108	Profane	google/muril-large-cased
+594826	Abusive	google/muril-large-cased
+239590	Sexism	google/muril-large-cased
+414415	Political Hate	google/muril-large-cased
+620296	Abusive	google/muril-large-cased
+843329	None	google/muril-large-cased
+272703	None	google/muril-large-cased
+96967	None	google/muril-large-cased
+684514	None	google/muril-large-cased
+363925	Political Hate	google/muril-large-cased
+701831	Abusive	google/muril-large-cased
+570642	None	google/muril-large-cased
+351163	None	google/muril-large-cased
+544574	Religious Hate	google/muril-large-cased
+895025	Sexism	google/muril-large-cased
+140578	None	google/muril-large-cased
+798880	Profane	google/muril-large-cased
+658158	None	google/muril-large-cased
+470670	None	google/muril-large-cased
+491299	Political Hate	google/muril-large-cased
+923599	None	google/muril-large-cased
+699500	None	google/muril-large-cased
+402499	None	google/muril-large-cased
+882133	None	google/muril-large-cased
+930565	None	google/muril-large-cased
+179809	None	google/muril-large-cased
+802404	None	google/muril-large-cased
+134679	Abusive	google/muril-large-cased
+915608	None	google/muril-large-cased
+789848	Profane	google/muril-large-cased
+186151	Abusive	google/muril-large-cased
+566111	Abusive	google/muril-large-cased
+712786	None	google/muril-large-cased
+18233	None	google/muril-large-cased
+448663	Abusive	google/muril-large-cased
+101726	Political Hate	google/muril-large-cased
+137172	None	google/muril-large-cased
+130592	None	google/muril-large-cased
+289339	Abusive	google/muril-large-cased
+268238	Profane	google/muril-large-cased
+778844	None	google/muril-large-cased
+619989	None	google/muril-large-cased
+295113	None	google/muril-large-cased
+510523	Abusive	google/muril-large-cased
+874338	None	google/muril-large-cased
+375992	Abusive	google/muril-large-cased
+143018	None	google/muril-large-cased
+449384	None	google/muril-large-cased
+668450	Abusive	google/muril-large-cased
+900460	None	google/muril-large-cased
+782027	Political Hate	google/muril-large-cased
+248320	Profane	google/muril-large-cased
+903520	None	google/muril-large-cased
+321366	None	google/muril-large-cased
+53970	None	google/muril-large-cased
+408408	None	google/muril-large-cased
+825847	None	google/muril-large-cased
+512939	Profane	google/muril-large-cased
+757889	Profane	google/muril-large-cased
+843487	None	google/muril-large-cased
+312978	None	google/muril-large-cased
+763921	None	google/muril-large-cased
+570935	None	google/muril-large-cased
+251505	None	google/muril-large-cased
+226424	Political Hate	google/muril-large-cased
+670694	None	google/muril-large-cased
+823738	Political Hate	google/muril-large-cased
+708856	None	google/muril-large-cased
+692533	None	google/muril-large-cased
+328000	Abusive	google/muril-large-cased
+821624	Political Hate	google/muril-large-cased
+888369	None	google/muril-large-cased
+775464	None	google/muril-large-cased
+378095	Religious Hate	google/muril-large-cased
+415921	Profane	google/muril-large-cased
+317166	None	google/muril-large-cased
+769119	None	google/muril-large-cased
+281010	Political Hate	google/muril-large-cased
+535819	None	google/muril-large-cased
+479402	Political Hate	google/muril-large-cased
+790291	None	google/muril-large-cased
+779950	None	google/muril-large-cased
+219128	None	google/muril-large-cased
+152210	Abusive	google/muril-large-cased
+116919	Profane	google/muril-large-cased
+124279	None	google/muril-large-cased
+148529	None	google/muril-large-cased
+664652	Political Hate	google/muril-large-cased
+695137	None	google/muril-large-cased
+936459	None	google/muril-large-cased
+175827	None	google/muril-large-cased
+913351	None	google/muril-large-cased
+643267	None	google/muril-large-cased
+530943	None	google/muril-large-cased
+46609	Abusive	google/muril-large-cased
+415153	Abusive	google/muril-large-cased
+436911	None	google/muril-large-cased
+474833	None	google/muril-large-cased
+17874	None	google/muril-large-cased
+471347	Religious Hate	google/muril-large-cased
+213176	None	google/muril-large-cased
+527476	Abusive	google/muril-large-cased
+815877	None	google/muril-large-cased
+677021	None	google/muril-large-cased
+240874	Political Hate	google/muril-large-cased
+794742	Abusive	google/muril-large-cased
+73385	Profane	google/muril-large-cased
+303942	Political Hate	google/muril-large-cased
+262531	None	google/muril-large-cased
+469724	None	google/muril-large-cased
+826071	Profane	google/muril-large-cased
+876469	Abusive	google/muril-large-cased
+572805	Abusive	google/muril-large-cased
+54874	Profane	google/muril-large-cased
+593727	None	google/muril-large-cased
+10377	None	google/muril-large-cased
+682060	Abusive	google/muril-large-cased
+275312	Political Hate	google/muril-large-cased
+692021	Profane	google/muril-large-cased
+847734	Religious Hate	google/muril-large-cased
+94130	Abusive	google/muril-large-cased
+718967	None	google/muril-large-cased
+763014	None	google/muril-large-cased
+731570	Political Hate	google/muril-large-cased
+740982	None	google/muril-large-cased
+866626	None	google/muril-large-cased
+729076	Political Hate	google/muril-large-cased
+895537	None	google/muril-large-cased
+392555	Abusive	google/muril-large-cased
+250047	None	google/muril-large-cased
+315945	None	google/muril-large-cased
+707668	Abusive	google/muril-large-cased
+175422	None	google/muril-large-cased
+26180	None	google/muril-large-cased
+638766	None	google/muril-large-cased
+728323	None	google/muril-large-cased
+82810	Abusive	google/muril-large-cased
+282591	None	google/muril-large-cased
+161178	Abusive	google/muril-large-cased
+740696	Abusive	google/muril-large-cased
+348504	None	google/muril-large-cased
+845443	None	google/muril-large-cased
+776466	None	google/muril-large-cased
+849227	Sexism	google/muril-large-cased
+532697	Profane	google/muril-large-cased
+861411	None	google/muril-large-cased
+743242	None	google/muril-large-cased
