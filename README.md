@@ -11,6 +11,8 @@ The subtask1A folder contains the following evaluation approaches:
 
 #### Approaches Implemented:
 - **Deep Learning Models** - Neural network architectures for hate speech classification
+  - BiLSTM (Macro F1: 0.5625)
+  - LSTM with Attention (Macro F1: 0.5518)
 - **Ensembling with Attacks** - Ensemble methods combined with adversarial attacks
 - **Large Language Models (LLMs)**
   - DistilBERT-multilingual (Macro F1: 0.6803)
@@ -25,6 +27,8 @@ The subtask1A folder contains the following evaluation approaches:
   - XLM-RoBERTa-base with K-Fold (Macro F1: 0.7174)
   - BanglaBERT-large with K-Fold (Macro F1: 0.7313)
   - BanglaBERT with K-Fold (Macro F1: 0.7329)
+  - XLM-RoBERTa-large with K-Fold (Macro F1: 0.7345)
+  - MuRIL-large-cased with K-Fold (Macro F1: 0.7361)
 - **LLMs with ML Model Ensembling** - Combining LLMs with traditional ML approaches
 - **Traditional ML Models** - Classical machine learning algorithms
 
@@ -69,7 +73,7 @@ The project implements several adversarial training techniques to improve model 
 ### Model Performance
 Best performing models based on Macro F1 scores:
 - Subtask 1C: BanglaBERT with FreeLB (Macro F1: 0.7452)
-- Subtask 1A: BanglaBERT with K-Fold CV (Macro F1: 0.7329)
+- Subtask 1A: MuRIL-large-cased with K-Fold CV (Macro F1: 0.7361)
 
 ## Technologies Used
 - **Transformers**: DistilBERT, XLM-RoBERTa (base & large), BanglaBERT, MuRIL-large-cased
