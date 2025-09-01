@@ -21,7 +21,9 @@ The subtask1A folder contains the following evaluation approaches:
   - BanglaBERT (csebuetnlp) (Macro F1: 0.7074)
   - MuRIL-large-cased (Macro F1: 0.7102)
   - XLM-RoBERTa-large (Macro F1: 0.7281)
-- **LLMs with Adversarial Attacks** - Robustness testing using adversarial examples
+- **LLMs with K-Fold CV and Adversarial Attacks** - Robustness testing using adversarial examples with K-fold validation
+  - BanglaBERT with FGM (Fast Gradient Method) - Macro F1: 0.7361
+  - BanglaBERT with AWP (Adversarial Weight Perturbation) - Macro F1: 0.7261
 - **LLMs with K-Fold Cross Validation** - K-fold CV for better model evaluation
   - DistilBERT-multilingual with K-Fold (Macro F1: 0.6963)
   - XLM-RoBERTa-base with K-Fold (Macro F1: 0.7174)
@@ -66,6 +68,7 @@ The subtask1C folder contains more advanced implementations with adversarial tra
 ### Adversarial Training Methods
 The project implements several adversarial training techniques to improve model robustness:
 - **FGM (Fast Gradient Method)**: A simple and efficient adversarial training approach
+- **AWP (Adversarial Weight Perturbation)**: Adversarial training that perturbs model weights for improved robustness
 - **GAT (Geometry-Aware Adversarial Training)**: Advanced geometry-aware adversarial training
 - **FreeLB**: Free Large-Batch adversarial training for improved generalization
 - **Simple FreeLB**: A simplified version of FreeLB for easier implementation
@@ -73,7 +76,9 @@ The project implements several adversarial training techniques to improve model 
 ### Model Performance
 Best performing models based on Macro F1 scores:
 - Subtask 1C: BanglaBERT with FreeLB (Macro F1: 0.7452)
-- Subtask 1A: MuRIL-large-cased with K-Fold CV (Macro F1: 0.7361)
+- Subtask 1A: 
+  - MuRIL-large-cased with K-Fold CV (Macro F1: 0.7361)
+  - BanglaBERT with FGM adversarial training (Macro F1: 0.7361)
 
 ## Technologies Used
 - **Transformers**: DistilBERT, XLM-RoBERTa (base & large), BanglaBERT, MuRIL-large-cased
@@ -91,6 +96,7 @@ Each subtask folder contains:
 - README files in evaluation phase directories
 
 ## Recent Updates
+- Added adversarial training for BanglaBERT in Subtask 1A with FGM and AWP methods
 - Added results for BanglaBERT-large, DistilBERT, and XLM-RoBERTa-base models
 - Implemented FreeLB adversarial training
 - Completed adversarial attacks with BanglaBERT (cse-buet-nlp)
