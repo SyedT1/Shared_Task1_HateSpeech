@@ -33,6 +33,8 @@ The subtask1A folder contains comprehensive evaluation approaches:
 
 ##### **K-Fold with Normalizer**
 - BanglaBERT with Normalizer - F1 Score: 74.32%
+- MuRIL-case-bert with Normalizer - F1 Score: 73.73%
+- XLM-RoBERTa-large with Normalizer - F1 Score: 73.29%
 
 ##### **LLMs with K-Fold CV and Adversarial Attacks**
 - BanglaBERT with FGM (Fast Gradient Method) - F1 Score: 73.61%
@@ -40,6 +42,9 @@ The subtask1A folder contains comprehensive evaluation approaches:
 
 ##### **K-Fold + Adversarial Attacks + Normalizer**
 - BanglaBERT with FGM + Normalizer - F1 Score: 74.88% ⭐ (Best for Subtask 1A)
+
+##### **Various Classification Heads**
+- BanglaBERT with Custom Attention Head + FGM + Normalizer - F1 Score: 74.88% ⭐ (Matches best performance)
 
 ##### **Additional Approaches**
 - Ensembling with Attacks
@@ -96,6 +101,9 @@ All using BanglaBERT (cse-buet-nlp) with different adversarial techniques:
 
 ## Key Features
 
+### Custom Model Architectures
+- **Attention-Based Pooling Head**: Learnable attention mechanism to dynamically weight and aggregate token hidden states instead of fixed pooling strategies ([CLS], mean pooling). This creates context-aware pooled representations that better capture important tokens in noisy Bengali text, particularly effective for hate speech detection with slang and informal language.
+
 ### Adversarial Training Methods
 The project implements several adversarial training techniques to improve model robustness:
 - **FGM (Fast Gradient Method)**: A simple and efficient adversarial training approach
@@ -107,6 +115,7 @@ The project implements several adversarial training techniques to improve model 
 ### Training Enhancements
 - **K-Fold Cross Validation**: Improves model evaluation and reduces overfitting
 - **Normalizer Techniques**: Text normalization for better performance on Bangla text
+- **Custom Classification Heads**: Attention-based pooling for dynamic token weighting
 - **Ensemble Methods**: Combining multiple models for improved predictions
 
 ## Model Performance Summary
@@ -143,6 +152,8 @@ Each subtask folder contains:
 
 ## Recent Updates
 - Achieved 74.88% F1 score on Subtask 1A using BanglaBERT with FGM + Normalizer
+- Implemented custom attention-based classification head for BanglaBERT
+- Added K-Fold with normalizer for MuRIL and XLM-RoBERTa models
 - Added comprehensive K-Fold implementations across all subtasks
 - Implemented multiple adversarial training techniques (FGM, AWP, FreeLB, GAT)
 - Added normalizer techniques for improved Bangla text processing
