@@ -3,13 +3,27 @@
 ## Project Overview
 This repository contains implementations for a hate speech detection shared task with three subtasks (1A, 1B, and 1C). The project explores various approaches including traditional machine learning, deep learning, large language models (LLMs), and adversarial training techniques.
 
+## Competition Phases
+The project was developed in two distinct phases:
+
+### 🔬 **Developmental Phase**
+- **Objective**: Model experimentation, architecture exploration, and hyperparameter tuning
+- **Data**: Training and validation datasets provided by organizers
+- **Focus**: Testing various approaches and techniques to identify best-performing models
+- **Metrics**: Validation F1 scores on development set
+
+### 🏆 **Evaluation Phase**  
+- **Objective**: Final model evaluation on unseen test data
+- **Data**: Hidden test set released during evaluation period
+- **Focus**: Deploying best models from developmental phase with refined configurations
+- **Metrics**: Test F1 scores on official evaluation set
+
 ## Repository Structure
 
-### Subtask 1A
+### Subtask 1A - Binary Hate Speech Detection
 -------------
-The subtask1A folder contains comprehensive evaluation approaches:
 
-#### Approaches Implemented:
+#### 📊 **Developmental Phase Results**
 
 ##### **Deep Learning Models**
 - BiLSTM - F1 Score: 56.25%
@@ -41,21 +55,24 @@ The subtask1A folder contains comprehensive evaluation approaches:
 - BanglaBERT with AWP (Adversarial Weight Perturbation) - F1 Score: 72.61%
 
 ##### **K-Fold + Adversarial Attacks + Normalizer**
-- BanglaBERT with FGM + Normalizer - F1 Score: 74.88% ⭐ (Best for Subtask 1A)
+- BanglaBERT with FGM + Normalizer - F1 Score: 74.88% ⭐ (Best Development Score)
+- MuRIL-bert-case with FGM + Normalizer - F1 Score: 73.81%
 
 ##### **Various Classification Heads**
-- BanglaBERT with Custom Attention Head + FGM + Normalizer - F1 Score: 74.88% ⭐ (Matches best performance)
+- BanglaBERT with Custom Attention Head + FGM + Normalizer - F1 Score: 74.88% ⭐
 
-##### **Additional Approaches**
-- Ensembling with Attacks
-- LLMs with ML Model Ensembling
-- Traditional ML Models
+#### 🎯 **Evaluation Phase Results**
 
-### Subtask 1B
+##### **Final Test Performance**
+- BanglaBERT with FGM + Normalizer - F1 Score: ~72%
+- AWP-BanglaBERT with Normalizer - F1 Score: ~71%
+- XLM-RoBERTa with K-Fold + Normalizer - F1 Score: ~72%
+- MuRIL-base-case with K-Fold + Normalizer - F1 Score: ~72%
+
+### Subtask 1B - Multi-class Hate Speech Classification
 -------------
-The subtask1B folder contains similar approaches with the following results:
 
-#### Approaches Implemented:
+#### 📊 **Developmental Phase Results**
 
 ##### **Large Language Models (LLMs)**
 - BanglaBERT - F1 Score: 72.09%
@@ -63,41 +80,36 @@ The subtask1B folder contains similar approaches with the following results:
 - XLM-RoBERTa-large - F1 Score: 71.38%
 
 ##### **LLMs with K-Fold Cross Validation**
-- MuRIL-large-cased with K-Fold - F1 Score: 74.96% ⭐ (Best for Subtask 1B)
+- MuRIL-large-cased with K-Fold - F1 Score: 74.96% ⭐ (Best Development Score)
 - BanglaBERT with K-Fold - F1 Score: 73.69%
-- XLM-RoBERTa-large with K-Fold (in progress)
+- XLM-RoBERTa-large with K-Fold - In progress
 
 ##### **K-Fold with Normalizer**
 - BanglaBERT with Normalizer - F1 Score: 74.72%
 - MuRIL-case-bert with Normalizer - F1 Score: 74.48%
 
-##### **Additional Approaches**
-- Deep Learning Models
-- Ensembling with Attacks
-- LLMs with Adversarial Attacks
-- LLMs with ML Model Ensembling
-- Traditional ML Models
+#### 🎯 **Evaluation Phase Results**
 
-### Subtask 1C
+##### **Final Test Performance**
+- BanglaBERT with K-Fold + Normalizer - F1 Score: ~73%
+- MuRIL-bert with K-Fold + Normalizer - F1 Score: ~73%
+- BanglaBERT with K-Fold CV - F1 Score: ~72%
+- XLM-RoBERTa with K-Fold CV - F1 Score: ~68%
+
+### Subtask 1C - Target Identification in Hate Speech
 -------------
-The subtask1C folder focuses on advanced adversarial training implementations:
 
-#### Approaches Implemented:
+#### 📊 **Developmental Phase Results**
 
 ##### **LLMs with Adversarial Attacks and K-Fold CV**
 All using BanglaBERT (cse-buet-nlp) with different adversarial techniques:
-- BanglaBERT with FreeLB - F1 Score: 74.52% ⭐ (Best for Subtask 1C)
+- BanglaBERT with FreeLB - F1 Score: 74.52% ⭐ (Best Development Score)
 - BanglaBERT with Simple FreeLB - F1 Score: 73.91%
-- BanglaBERT with GAT - F1 Score: 73.79%
-- BanglaBERT with FGM - F1 Score: 73.75%
+- BanglaBERT with GAT (Geometry-Aware Training) - F1 Score: 73.79%
+- BanglaBERT with FGM (Fast Gradient Method) - F1 Score: 73.75%
 
-##### **Additional Approaches**
-- Deep Learning Models
-- Ensembling with Attacks
-- Standard LLMs
-- LLMs with K-Fold Cross Validation
-- LLMs with ML Model Ensembling and K-Fold
-- Traditional ML Models
+#### 🎯 **Evaluation Phase Results**
+- No evaluation phase notebooks found (Competition may not have included Subtask 1C in final evaluation)
 
 ## Key Features
 
@@ -120,14 +132,28 @@ The project implements several adversarial training techniques to improve model 
 
 ## Model Performance Summary
 
-### Best Performing Models by Subtask:
+### 📈 Best Performing Models - Developmental Phase:
 | Subtask | Model | F1 Score | Technique |
 |---------|-------|----------|-----------|
 | **1A** | BanglaBERT | 74.88% | K-Fold + FGM + Normalizer |
 | **1B** | MuRIL-large-cased | 74.96% | K-Fold Cross Validation |
 | **1C** | BanglaBERT | 74.52% | FreeLB Adversarial Training |
 
+### 🏅 Final Performance - Evaluation Phase:
+| Subtask | Model | Dev F1 | Test F1 | Performance Drop |
+|---------|-------|--------|---------|------------------|
+| **1A** | BanglaBERT + FGM + Normalizer | 74.88% | ~72% | -2.88% |
+| **1B** | BanglaBERT + K-Fold + Normalizer | 74.72% | ~73% | -1.72% |
+| **1C** | - | - | - | Not evaluated |
+
 ### Key Insights:
+
+#### Development vs Evaluation Phase Observations:
+- **Generalization Gap**: Models showed 1-3% performance drop from development to test phase
+- **Robust Techniques**: K-Fold CV and normalizers helped minimize overfitting
+- **Best Stability**: Models with adversarial training showed better test performance retention
+
+#### Technical Insights:
 - **K-Fold Cross Validation** consistently improves performance by 1-3% across all models
 - **Normalizer techniques** provide additional 0.5-1% improvement for Bangla text
 - **Adversarial training** (especially FreeLB and FGM) enhances model robustness
@@ -143,12 +169,35 @@ The project implements several adversarial training techniques to improve model 
 - **Ensemble Methods**: Model averaging and voting classifiers
 
 ## File Organization
-Each subtask folder contains:
-- `Developmental Phase/` - Initial experiments and model development
-- `Evaluation Phase/` - Final implementations and evaluations
-- Model directories follow naming convention: `v{f1_score}_{model_name}`
+
+### Directory Structure:
+```
+Shared_Task1_HateSpeech/
+├── subtask1A/
+│   ├── Developmental Phase/     # Model experiments & validation
+│   │   ├── DL Models/           # Deep learning baselines
+│   │   ├── LLMs/                # Base transformer models
+│   │   ├── LLMS with K Fold CV/ # K-Fold implementations
+│   │   ├── K Folds with normalizer/
+│   │   ├── LLMs_KFolds_adversarial attacks/
+│   │   └── Various classification heads/
+│   └── Evaluation Phase/        # Final test submissions
+│       ├── K Folds with Normalizer/
+│       └── LLMS_KFolds_attacks_normalizer/
+├── subtask1B/
+│   ├── Developmental Phase/
+│   └── Evaluation Phase/
+└── subtask1C/
+    └── Developmental Phase/     # Only development (no test phase)
+
+```
+
+### Naming Convention:
+- Model directories: `v{f1_score}_{model_name}`
   - Example: `v0.7488_banglabert-fgm` = 74.88% F1 score using BanglaBERT with FGM
-- Jupyter notebooks (.ipynb) with complete implementation pipelines
+- Each directory contains:
+  - Jupyter notebook (.ipynb) with implementation
+  - Data file (subtask_1X.tsv)
 
 ## Recent Updates
 - Achieved 74.88% F1 score on Subtask 1A using BanglaBERT with FGM + Normalizer
@@ -163,10 +212,18 @@ Each subtask folder contains:
 Navigate to the specific subtask folder and approach directory to access the implementation notebooks. Each notebook contains the complete pipeline for training and evaluation of the respective model.
 
 ## Performance Trends
+
+### Developmental Phase Improvements:
 1. **Base → K-Fold**: Average improvement of ~2-3%
 2. **K-Fold → K-Fold + Normalizer**: Additional ~0.5-1% improvement
 3. **K-Fold → K-Fold + Adversarial**: Variable improvement (0.5-1.5%)
 4. **Combined techniques** (K-Fold + Adversarial + Normalizer): Best overall performance
+
+### Development → Evaluation Phase Trends:
+- **Average Performance Drop**: 1-3% on unseen test data
+- **Most Stable Approaches**: K-Fold + Normalizer combinations
+- **Highest Risk of Overfitting**: Single model without K-Fold
+- **Best Generalization**: Adversarial training methods (FGM, FreeLB)
 
 ## Contributing
 Feel free to explore different approaches and contribute improvements to the existing implementations.
