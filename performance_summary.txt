@@ -1,7 +1,0 @@
-SUBTASK 1A DEVELOPMENTAL PHASE RESULTS:
-=======================================
-LSTM with Attention: 0.5894 ± 0.0045\n
-LSTM with Attention: {avg_acc:.4f} ± {std_acc:.4f}\
-BiLSTM: 0.4739 ± 0.0106\n
-BiLSTM: {avg_acc:.4f} ± {std_acc:.4f}\
-
