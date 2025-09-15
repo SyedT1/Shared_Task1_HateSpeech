@@ -1,7 +1,7 @@
 # Shared Task 1: Hate Speech Detection in Bengali
 
 ## Project Overview
-This repository contains comprehensive implementations for Bengali hate speech detection across three subtasks, developed for a competitive shared task. The project explores various machine learning approaches from traditional deep learning to state-of-the-art transformer models with advanced training techniques.
+This repository contains comprehensive implementations for the Bengali Multi-task Hate Speech Identification shared task at BLP Workshop @IJCNLP-AACL 2025. The project addresses the complex problem of detecting and understanding hate speech in Bengali across three related subtasks: hate type classification, target identification, and multi-task analysis. The implementation explores various machine learning approaches from traditional deep learning to state-of-the-art transformer models with advanced training techniques.
 
 ## Competition Phases
 
@@ -19,8 +19,8 @@ This repository contains comprehensive implementations for Bengali hate speech d
 
 ## Repository Structure
 
-### Subtask 1A - Binary Hate Speech Detection
-Detection of hate speech vs non-hate speech in Bengali text.
+### Subtask 1A - Hate Speech Type Classification
+Multi-class classification of Bengali text into: Abusive, Sexism, Religious Hate, Political Hate, Profane, or None.
 
 #### 📊 **Developmental Phase Results**
 
@@ -66,8 +66,8 @@ Detection of hate speech vs non-hate speech in Bengali text.
 - **XLM-RoBERTa + K-Fold + Normalizer** - Test F1: 72.00%
 - **MuRIL-base-case + K-Fold + Normalizer** - Test F1: 72.00%
 
-### Subtask 1B - Multi-class Hate Speech Classification
-Classification into specific hate speech categories.
+### Subtask 1B - Hate Speech Target Classification
+Classification of hate speech targets into: Individuals, Organizations, Communities, or Society.
 
 #### 📊 **Developmental Phase Results**
 
@@ -91,8 +91,8 @@ Classification into specific hate speech categories.
 - **BanglaBERT + K-Fold CV** - Test F1: 72.00%
 - **XLM-RoBERTa + K-Fold CV** - Test F1: 68.00%
 
-### Subtask 1C - Target Identification in Hate Speech
-Identification of hate speech targets and entities.
+### Subtask 1C - Multi-task Hate Speech Analysis
+Multi-task classification combining hate type (Abusive, Sexism, Religious Hate, Political Hate, Profane, None), severity (Little to None, Mild, Severe), and target group (Individuals, Organizations, Communities, Society).
 
 #### 📊 **Developmental Phase Results**
 
@@ -191,7 +191,7 @@ normalize(
 ### Directory Structure:
 ```
 Shared_Task1_HateSpeech/
-├── subtask1A/                    # Binary hate speech detection
+├── subtask1A/                    # Hate speech type classification
 │   ├── Developmental Phase/
 │   │   ├── DL Models/           # BiLSTM, LSTM-Attention
 │   │   ├── LLMs/                # Base transformer models
@@ -201,13 +201,13 @@ Shared_Task1_HateSpeech/
 │   │   ├── LLMS_KFolds_attacks_normalizer/
 │   │   └── Various classification heads/
 │   └── Evaluation Phase/        # Final test submissions
-├── subtask1B/                   # Multi-class classification
+├── subtask1B/                   # Hate speech target classification
 │   ├── Developmental Phase/
 │   │   ├── LLMs/
 │   │   ├── LLMS with K Fold CV/
 │   │   └── K Folds with normalizer/
 │   └── Evaluation Phase/
-└── subtask1C/                   # Target identification
+└── subtask1C/                   # Multi-task hate speech analysis
     └── Developmental Phase/
         └── LLMs with adversarial attacks and K Fold CV/
 ```
@@ -297,10 +297,48 @@ Shared_Task1_HateSpeech/
 - **Cross-Lingual Transfer**: Knowledge sharing across languages
 - **Domain Adaptation**: Generalization to different text domains
 
+## Official Task Information
+
+### Task Details
+- **Competition**: Bengali Multi-task Hate Speech Identification Shared Task
+- **Workshop**: BLP Workshop @ IJCNLP-AACL 2025
+- **Website**: https://multihate.github.io/
+- **Evaluation Metrics**: 
+  - Subtask 1A & 1B: Micro-F1
+  - Subtask 1C: Weighted Micro-F1
+
+### Data Format
+#### Subtask 1A
+```
+id    text    label
+```
+Labels: Abusive, Sexism, Religious Hate, Political Hate, Profane, None
+
+#### Subtask 1B  
+```
+id    text    label
+```
+Labels: Individuals, Organizations, Communities, Society
+
+#### Subtask 1C
+```
+id    text    hate_type    hate_severity    to_whom
+```
+- hate_type: Abusive, Sexism, Religious Hate, Political Hate, Profane, None
+- hate_severity: Little to None, Mild, Severe  
+- to_whom: Individuals, Organizations, Communities, Society
+
 ## Citation and Acknowledgments
 
-This work represents comprehensive exploration of hate speech detection in Bengali, contributing to the advancement of multilingual NLP and social media content moderation.
+This work represents comprehensive exploration of Bengali hate speech detection for the BLP Workshop @ IJCNLP-AACL 2025 shared task, contributing to the advancement of multilingual NLP and social media content moderation.
+
+### Organizers
+- Md Arid Hasan, PhD Student, The University of Toronto
+- Firoj Alam, Senior Scientist, Qatar Computing Research Institute  
+- Md Fahad Hossain, Lecturer, Daffodil International University
+- Usman Naseem, Assistant Professor, Macquarie University
+- Syed Ishtiaque Ahmed, Associate Professor, The University of Toronto
 
 ---
 
-**Note**: This repository demonstrates state-of-the-art approaches for Bengali hate speech detection, with particular emphasis on robust evaluation methodology and practical implementation strategies.
+**Note**: This repository demonstrates state-of-the-art approaches for Bengali hate speech detection across multiple classification tasks, with particular emphasis on robust evaluation methodology and practical implementation strategies for the official shared task.
