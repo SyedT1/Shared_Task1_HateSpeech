@@ -71,6 +71,9 @@ Classification of hate speech targets into: Individuals, Organizations, Communit
 
 #### 📊 **Developmental Phase Results**
 
+##### **Deep Learning Models**
+- Traditional deep learning approaches implemented (scores pending)
+
 ##### **Large Language Models (LLMs)**
 - **BanglaBERT** - F1 Score: 72.09%
 - **MuRIL-large-cased** - F1 Score: 71.93%
@@ -79,17 +82,43 @@ Classification of hate speech targets into: Individuals, Organizations, Communit
 ##### **LLMs with K-Fold Cross Validation**
 - **MuRIL-large-cased with K-Fold** - F1 Score: 74.96% ⭐ (Best Development Score)
 - **BanglaBERT with K-Fold** - F1 Score: 73.69%
-- **XLM-RoBERTa-large with K-Fold** - F1 Score: In progress
+- **XLM-RoBERTa-large with K-Fold** - In progress
 
 ##### **K-Fold with Text Normalizer**
 - **BanglaBERT with Normalizer** - F1 Score: 74.72%
 - **MuRIL-case-bert with Normalizer** - F1 Score: 74.48%
 
+##### **LLMs with K-Fold and Adversarial Attacks**
+- Implementations available (scores pending)
+
+##### **Advanced Combined Approaches (K-Fold + Adversarial + Normalizer)**
+- Implementations available (scores pending)
+
 #### 🎯 **Evaluation Phase Results**
+
+##### **Base LLMs (without K-Fold)**
+- **XLM-RoBERTa** - Test F1: 71.00%
+- **MuRIL-large-cased** - Test F1: 71.00%
+- **BanglaBERT** - Test F1: 70.00%
+
+##### **LLMs with K-Fold Cross Validation**
+- **MuRIL-bert-case + K-Fold** - Test F1: 73.00%
+- **BanglaBERT + K-Fold** - Test F1: 72.00%
+- **XLM-RoBERTa + K-Fold** - Test F1: 68.00%
+
+##### **K-Fold with Text Normalizer**
 - **BanglaBERT + K-Fold + Normalizer** - Test F1: 73.00%
 - **MuRIL-bert + K-Fold + Normalizer** - Test F1: 73.00%
-- **BanglaBERT + K-Fold CV** - Test F1: 72.00%
-- **XLM-RoBERTa + K-Fold CV** - Test F1: 68.00%
+
+##### **LLMs with K-Fold and Adversarial Attacks (FGM)**
+- **XLM-RoBERTa-large + K-Fold + FGM** - Test F1: 73.00%
+- **MuRIL-bert-case + K-Fold + FGM** - Test F1: 73.00%
+- **BanglaBERT + K-Fold + FGM** - Test F1: 72.00%
+
+##### **Advanced Combined Approaches (K-Fold + FGM + Normalizer)**
+- **BanglaBERT + K-Fold + FGM + Normalizer** - Test F1: 73.00% ⭐
+- **MuRIL-bert-case + K-Fold + FGM + Normalizer** - Test F1: 73.00% ⭐
+- **XLM-RoBERTa-large + K-Fold + FGM + Normalizer** - Test F1: 72.00%
 
 ### Subtask 1C - Multi-task Hate Speech Analysis
 Multi-task classification combining hate type (Abusive, Sexism, Religious Hate, Political Hate, Profane, None), severity (Little to None, Mild, Severe), and target group (Individuals, Organizations, Communities, Society).
@@ -154,8 +183,17 @@ normalize(
 | Subtask | Model | Dev F1 | Test F1 | Performance Drop |
 |---------|-------|--------|---------|------------------|
 | **1A** | BanglaBERT + FGM + Normalizer | 74.88% | 72.00% | -2.88% |
-| **1B** | BanglaBERT + K-Fold + Normalizer | 74.72% | 73.00% | -1.72% |
+| **1B** | Multiple models (K-Fold + FGM + Normalizer) | 74.96% | 73.00% | -1.96% |
 | **1C** | - | - | - | Not evaluated |
+
+#### Best Test Phase Models (Subtask 1B):
+| Approach | BanglaBERT | MuRIL | XLM-RoBERTa |
+|----------|------------|-------|-------------|
+| **Base LLM** | 70% | 71% | 71% |
+| **+ K-Fold** | 72% | 73% | 68% |
+| **+ K-Fold + Normalizer** | 73% | 73% | - |
+| **+ K-Fold + FGM** | 72% | 73% | 73% |
+| **+ K-Fold + FGM + Normalizer** | 73% ⭐ | 73% ⭐ | 72% |
 
 ### Key Performance Insights
 
@@ -203,10 +241,18 @@ Shared_Task1_HateSpeech/
 │   └── Evaluation Phase/        # Final test submissions
 ├── subtask1B/                   # Hate speech target classification
 │   ├── Developmental Phase/
+│   │   ├── DL Models/
 │   │   ├── LLMs/
 │   │   ├── LLMS with K Fold CV/
-│   │   └── K Folds with normalizer/
+│   │   ├── K Folds with normalizer/
+│   │   ├── LLMs_KFolds_adversarial attacks/
+│   │   └── LLMS_KFolds_attacks_normalizer/
 │   └── Evaluation Phase/
+│       ├── LLMs/
+│       ├── LLMS with K Fold CV/
+│       ├── K Folds with normalizer/
+│       ├── LLMs_KFolds_adversarial attacks/
+│       └── LLMS_KFolds_attacks_normalizer/
 └── subtask1C/                   # Multi-task hate speech analysis
     └── Developmental Phase/
         └── LLMs with adversarial attacks and K Fold CV/
