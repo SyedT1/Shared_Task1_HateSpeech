@@ -125,6 +125,12 @@ Multi-task classification combining hate type (Abusive, Sexism, Religious Hate, 
 
 #### 📊 **Developmental Phase Results**
 
+##### **Base LLMs**
+- Basic transformer implementations (scores pending)
+
+##### **LLMs with K-Fold Cross Validation**
+- Standard K-Fold implementations (scores pending)
+
 ##### **LLMs with Adversarial Training and K-Fold**
 All using BanglaBERT (cse-buet-nlp) with different adversarial techniques:
 - **BanglaBERT + FreeLB** - F1 Score: 74.52% ⭐ (Best Development Score)
@@ -132,8 +138,19 @@ All using BanglaBERT (cse-buet-nlp) with different adversarial techniques:
 - **BanglaBERT + GAT** - F1 Score: 73.79%
 - **BanglaBERT + FGM** - F1 Score: 73.75%
 
+##### **LLMs with K-Fold and Normalizer**
+- Text normalization implementations (scores pending)
+
+##### **Advanced Combined Approaches (K-Fold + Adversarial + Normalizer)**
+- Comprehensive technique combinations (scores pending)
+
 #### 🎯 **Evaluation Phase Results**
-- No evaluation phase implemented (Competition scope limited to Subtasks 1A and 1B)
+
+##### **LLMs with K-Fold and Normalizer**
+- **BanglaBERT + K-Fold + Normalizer** - Test F1: 73.00%
+
+##### **LLMs with Adversarial Training and K-Fold**
+- **BanglaBERT + FreeLB + K-Fold** - Test F1: 72.00%
 
 ## Technical Implementation Details
 
@@ -184,7 +201,7 @@ normalize(
 |---------|-------|--------|---------|------------------|
 | **1A** | BanglaBERT + FGM + Normalizer | 74.88% | 72.00% | -2.88% |
 | **1B** | Multiple models (K-Fold + FGM + Normalizer) | 74.96% | 73.00% | -1.96% |
-| **1C** | - | - | - | Not evaluated |
+| **1C** | BanglaBERT + K-Fold + Normalizer | 74.52% | 73.00% | -1.52% |
 
 #### Best Test Phase Models (Subtask 1B):
 | Approach | BanglaBERT | MuRIL | XLM-RoBERTa |
@@ -195,13 +212,25 @@ normalize(
 | **+ K-Fold + FGM** | 72% | 73% | 73% |
 | **+ K-Fold + FGM + Normalizer** | 73% ⭐ | 73% ⭐ | 72% |
 
+#### Best Test Phase Models (Subtask 1C):
+| Approach | BanglaBERT | Development | Test |
+|----------|------------|-------------|------|
+| **K-Fold + Normalizer** | ✅ | - | 73% ⭐ |
+| **K-Fold + FreeLB** | ✅ | 74.52% | 72% |
+| **Simple FreeLB** | ✅ | 73.91% | - |
+| **GAT** | ✅ | 73.79% | - |
+| **FGM** | ✅ | 73.75% | - |
+
 ### Key Performance Insights
 
 #### Development vs Evaluation Observations:
-- **Generalization Gap**: 1-3% performance drop from development to test
-- **Most Stable**: K-Fold + Normalizer combinations showed best consistency
+- **Generalization Gap**: 1-3% performance drop from development to test across all subtasks
+- **Most Stable**: K-Fold + Normalizer combinations showed best consistency (especially in subtask1C)
 - **Overfitting Risk**: Single models without cross-validation showed higher variance
-- **Best Generalization**: Adversarial training methods maintained performance better
+- **Best Generalization**: 
+  - Subtask 1A: Adversarial training methods (FGM + Normalizer)
+  - Subtask 1B: Combined approaches (K-Fold + FGM + Normalizer)
+  - Subtask 1C: Normalization techniques (smallest performance drop: -1.52%)
 
 #### Technical Effectiveness:
 - **K-Fold Cross Validation**: Consistent 2-3% improvement across all models
@@ -254,8 +283,18 @@ Shared_Task1_HateSpeech/
 │       ├── LLMs_KFolds_adversarial attacks/
 │       └── LLMS_KFolds_attacks_normalizer/
 └── subtask1C/                   # Multi-task hate speech analysis
-    └── Developmental Phase/
-        └── LLMs with adversarial attacks and K Fold CV/
+    ├── Developmental Phase/
+    │   ├── LLMs/
+    │   ├── LLMS with K Fold CV/
+    │   ├── LLMs with adversarial attacks and K Fold CV/
+    │   ├── LLMs with K Fold CV and normalizer/
+    │   └── K Fold CV with attacks and normalizer/
+    └── Evaluation Phase/
+        ├── LLMs/
+        ├── LLMS with K Fold CV/
+        ├── LLMs with adversarial attacks and K Fold CV/
+        ├── LLMs with K Fold CV and normalizer/
+        └── K Fold CV with attacks and normalizer/
 ```
 
 ### Naming Convention:
