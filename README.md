@@ -92,7 +92,9 @@ Classification of hate speech targets into: Individuals, Organizations, Communit
 - Implementations available (scores pending)
 
 ##### **Advanced Combined Approaches (K-Fold + Adversarial + Normalizer)**
-- Implementations available (scores pending)
+- **BanglaBERT + K-Fold + FGM + Normalizer** - F1 Score: 74.64%
+- **MuRIL-large-cased + K-Fold + FGM + Normalizer** - F1 Score: 74.56%
+- **XLM-RoBERTa-large + K-Fold + FGM + Normalizer** - F1 Score: 74.32%
 
 #### 🎯 **Evaluation Phase Results**
 
