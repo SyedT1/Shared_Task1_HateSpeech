@@ -82,11 +82,12 @@ Classification of hate speech targets into: Individuals, Organizations, Communit
 ##### **LLMs with K-Fold Cross Validation**
 - **MuRIL-large-cased with K-Fold** - F1 Score: 74.96% ⭐ (Best Development Score)
 - **BanglaBERT with K-Fold** - F1 Score: 73.69%
-- **XLM-RoBERTa-large with K-Fold** - In progress
+- **XLM-RoBERTa-large with K-Fold** - F1 Score: 71.53%
 
 ##### **K-Fold with Text Normalizer**
 - **BanglaBERT with Normalizer** - F1 Score: 74.72%
-- **MuRIL-case-bert with Normalizer** - F1 Score: 74.48%
+- **MuRIL-large-cased with Normalizer** - F1 Score: 74.48%
+- **XLM-RoBERTa-large with Normalizer** - F1 Score: 72.39%
 
 ##### **LLMs with K-Fold and Adversarial Attacks**
 - Implementations available (scores pending)
@@ -99,28 +100,29 @@ Classification of hate speech targets into: Individuals, Organizations, Communit
 #### 🎯 **Evaluation Phase Results**
 
 ##### **Base LLMs (without K-Fold)**
-- **XLM-RoBERTa** - Test F1: 71.00%
-- **MuRIL-large-cased** - Test F1: 71.00%
-- **BanglaBERT** - Test F1: 70.00%
+- **XLM-RoBERTa-large** - Test F1: 71.23%
+- **MuRIL-large-cased** - Test F1: 70.93%
+- **BanglaBERT** - Test F1: 70.25%
 
 ##### **LLMs with K-Fold Cross Validation**
-- **MuRIL-bert-case + K-Fold** - Test F1: 73.00%
-- **BanglaBERT + K-Fold** - Test F1: 72.00%
-- **XLM-RoBERTa + K-Fold** - Test F1: 68.00%
+- **MuRIL-large-cased + K-Fold** - Test F1: 73.44%
+- **BanglaBERT + K-Fold** - Test F1: 71.85%
+- **XLM-RoBERTa-large + K-Fold** - Test F1: 68.07%
 
 ##### **K-Fold with Text Normalizer**
-- **BanglaBERT + K-Fold + Normalizer** - Test F1: 73.00%
-- **MuRIL-bert + K-Fold + Normalizer** - Test F1: 73.00%
+- **MuRIL-large-cased + K-Fold + Normalizer** - Test F1: 73.44%
+- **BanglaBERT + K-Fold + Normalizer** - Test F1: 72.89%
+- **XLM-RoBERTa-large + K-Fold + Normalizer** - Test F1: 71.66%
 
 ##### **LLMs with K-Fold and Adversarial Attacks (FGM)**
-- **XLM-RoBERTa-large + K-Fold + FGM** - Test F1: 73.00%
-- **MuRIL-bert-case + K-Fold + FGM** - Test F1: 73.00%
-- **BanglaBERT + K-Fold + FGM** - Test F1: 72.00%
+- **XLM-RoBERTa-large + K-Fold + FGM** - Test F1: 73.28%
+- **MuRIL-large-cased + K-Fold + FGM** - Test F1: 72.92%
+- **BanglaBERT + K-Fold + FGM** - Test F1: 72.25%
 
 ##### **Advanced Combined Approaches (K-Fold + FGM + Normalizer)**
-- **BanglaBERT + K-Fold + FGM + Normalizer** - Test F1: 73.00% ⭐
-- **MuRIL-bert-case + K-Fold + FGM + Normalizer** - Test F1: 73.00% ⭐
-- **XLM-RoBERTa-large + K-Fold + FGM + Normalizer** - Test F1: 72.00%
+- **BanglaBERT + K-Fold + FGM + Normalizer** - Test F1: 73.12% ⭐
+- **MuRIL-large-cased + K-Fold + FGM + Normalizer** - Test F1: 72.95% ⭐
+- **XLM-RoBERTa-large + K-Fold + FGM + Normalizer** - Test F1: 72.17%
 
 ### Subtask 1C - Multi-task Hate Speech Analysis
 Multi-task classification combining hate type (Abusive, Sexism, Religious Hate, Political Hate, Profane, None), severity (Little to None, Mild, Severe), and target group (Individuals, Organizations, Communities, Society).
@@ -202,17 +204,17 @@ normalize(
 | Subtask | Model | Dev F1 | Test F1 | Performance Drop |
 |---------|-------|--------|---------|------------------|
 | **1A** | BanglaBERT + FGM + Normalizer | 74.88% | 72.00% | -2.88% |
-| **1B** | Multiple models (K-Fold + FGM + Normalizer) | 74.96% | 73.00% | -1.96% |
+| **1B** | MuRIL-large-cased + K-Fold | 74.96% | 73.44% | -1.52% |
 | **1C** | BanglaBERT + K-Fold + Normalizer | 74.52% | 73.00% | -1.52% |
 
 #### Best Test Phase Models (Subtask 1B):
-| Approach | BanglaBERT | MuRIL | XLM-RoBERTa |
-|----------|------------|-------|-------------|
-| **Base LLM** | 70% | 71% | 71% |
-| **+ K-Fold** | 72% | 73% | 68% |
-| **+ K-Fold + Normalizer** | 73% | 73% | - |
-| **+ K-Fold + FGM** | 72% | 73% | 73% |
-| **+ K-Fold + FGM + Normalizer** | 73% ⭐ | 73% ⭐ | 72% |
+| Approach | BanglaBERT | MuRIL-large | XLM-RoBERTa-large |
+|----------|------------|-------------|-------------------|
+| **Base LLM** | 70.25% | 70.93% | 71.23% |
+| **+ K-Fold** | 71.85% | 73.44% ⭐ | 68.07% |
+| **+ K-Fold + Normalizer** | 72.89% | 73.44% ⭐ | 71.66% |
+| **+ K-Fold + FGM** | 72.25% | 72.92% | 73.28% |
+| **+ K-Fold + FGM + Normalizer** | 73.12% ⭐ | 72.95% | 72.17% |
 
 #### Best Test Phase Models (Subtask 1C):
 | Approach | BanglaBERT | Development | Test |
