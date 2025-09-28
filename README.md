@@ -40,31 +40,33 @@ Multi-class classification of Bengali text into: Abusive, Sexism, Religious Hate
 - **MuRIL-large-cased with K-Fold** - F1 Score: 73.61%
 - **XLM-RoBERTa-large with K-Fold** - F1 Score: 73.45%
 - **BanglaBERT with K-Fold** - F1 Score: 73.29%
-- **BanglaBERT-large with K-Fold** - F1 Score: 73.13%
-- **XLM-RoBERTa-base with K-Fold** - F1 Score: 71.74%
-- **DistilBERT-multilingual with K-Fold** - F1 Score: 69.63%
 
 ##### **K-Fold with Text Normalizer**
 - **BanglaBERT with Normalizer** - F1 Score: 74.32%
-- **MuRIL-case-bert with Normalizer** - F1 Score: 73.73%
+- **MuRIL-large-cased with Normalizer** - F1 Score: 73.73%
 - **XLM-RoBERTa-large with Normalizer** - F1 Score: 73.29%
 
-##### **LLMs with Adversarial Training**
-- **BanglaBERT with FGM** - F1 Score: 73.61%
-- **BanglaBERT with AWP** - F1 Score: 72.61%
+##### **LLMs with Adversarial Training (K-Fold + FGM)**
+- **BanglaBERT with K-Fold + FGM** - F1 Score: 73.87%
+- **MuRIL-large-cased with K-Fold + FGM** - F1 Score: 73.68%
 
-##### **Advanced Combined Approaches**
-- **BanglaBERT + FGM + Normalizer** - F1 Score: 74.88% ⭐ (Best Development Score)
-- **MuRIL-bert-case + FGM + Normalizer** - F1 Score: 73.81%
+##### **Advanced Combined Approaches (K-Fold + FGM + Normalizer)**
+- **BanglaBERT + K-Fold + FGM + Normalizer** - F1 Score: 74.88% ⭐ (Best Development Score)
+- **MuRIL-large-cased + K-Fold + FGM + Normalizer** - F1 Score: 73.81%
 
-##### **Custom Classification Heads**
-- **BanglaBERT + Custom Attention Head + FGM + Normalizer** - F1 Score: 74.88% ⭐
 
 #### 🎯 **Evaluation Phase Results**
-- **BanglaBERT + FGM + Normalizer** - Test F1: 72.00%
-- **AWP-BanglaBERT + Normalizer** - Test F1: 71.00%
-- **XLM-RoBERTa + K-Fold + Normalizer** - Test F1: 72.00%
-- **MuRIL-base-case + K-Fold + Normalizer** - Test F1: 72.00%
+- **BanglaBERT + K-Fold + FGM + Normalizer** - Test F1: 72.33% ⭐ (Best Test Score)
+- **BanglaBERT + K-Fold + FGM** - Test F1: 72.17%
+- **MuRIL-large-cased + K-Fold + Normalizer** - Test F1: 72.30%
+- **BanglaBERT + K-Fold** - Test F1: 72.05%
+- **MuRIL-large-cased + K-Fold + FGM** - Test F1: 71.90%
+- **MuRIL-large-cased + K-Fold** - Test F1: 71.88%
+- **XLM-RoBERTa-large + K-Fold** - Test F1: 71.72%
+- **XLM-RoBERTa-large + K-Fold + Normalizer** - Test F1: 71.57%
+- **MuRIL-large-cased + K-Fold + FGM + Normalizer** - Test F1: 71.31%
+- **BanglaBERT + K-Fold + Normalizer** - Test F1: 71.14%
+- **BanglaBERT (Base)** - Test F1: 70.31%
 
 ### Subtask 1B - Hate Speech Target Classification
 Classification of hate speech targets into: Individuals, Organizations, Communities, or Society.
@@ -89,8 +91,10 @@ Classification of hate speech targets into: Individuals, Organizations, Communit
 - **MuRIL-large-cased with Normalizer** - F1 Score: 74.48%
 - **XLM-RoBERTa-large with Normalizer** - F1 Score: 72.39%
 
-##### **LLMs with K-Fold and Adversarial Attacks**
-- Implementations available (scores pending)
+##### **LLMs with K-Fold and Adversarial Attacks (FGM)**
+- **XLM-RoBERTa-large with K-Fold + FGM** - F1 Score: 74.20%
+- **BanglaBERT with K-Fold + FGM** - F1 Score: 74.12%
+- **MuRIL-large-cased with K-Fold + FGM** - F1 Score: 73.89%
 
 ##### **Advanced Combined Approaches (K-Fold + Adversarial + Normalizer)**
 - **BanglaBERT + K-Fold + FGM + Normalizer** - F1 Score: 74.64%
@@ -203,9 +207,18 @@ normalize(
 #### Evaluation Phase Performance:
 | Subtask | Model | Dev F1 | Test F1 | Performance Drop |
 |---------|-------|--------|---------|------------------|
-| **1A** | BanglaBERT + FGM + Normalizer | 74.88% | 72.00% | -2.88% |
+| **1A** | BanglaBERT + K-Fold + FGM + Normalizer | 74.88% | 72.33% | -2.55% |
 | **1B** | MuRIL-large-cased + K-Fold | 74.96% | 73.44% | -1.52% |
 | **1C** | BanglaBERT + K-Fold + Normalizer | 74.52% | 73.00% | -1.52% |
+
+#### Best Test Phase Models (Subtask 1A):
+| Approach | BanglaBERT | MuRIL-large | XLM-RoBERTa-large |
+|----------|------------|-------------|-------------------|
+| **Base LLM** | 70.31% | - | - |
+| **+ K-Fold** | 72.05% | 71.88% | 71.72% |
+| **+ K-Fold + Normalizer** | 71.14% | 72.30% | 71.57% |
+| **+ K-Fold + FGM** | 72.17% | 71.90% | - |
+| **+ K-Fold + FGM + Normalizer** | 72.33% ⭐ | 71.31% | - |
 
 #### Best Test Phase Models (Subtask 1B):
 | Approach | BanglaBERT | MuRIL-large | XLM-RoBERTa-large |
@@ -214,7 +227,7 @@ normalize(
 | **+ K-Fold** | 71.85% | 73.44% ⭐ | 68.07% |
 | **+ K-Fold + Normalizer** | 72.89% | 73.44% ⭐ | 71.66% |
 | **+ K-Fold + FGM** | 72.25% | 72.92% | 73.28% |
-| **+ K-Fold + FGM + Normalizer** | 73.12% ⭐ | 72.95% | 72.17% |
+| **+ K-Fold + FGM + Normalizer** | 73.12% | 72.95% | 72.17% |
 
 #### Best Test Phase Models (Subtask 1C):
 | Approach | BanglaBERT | Development | Test |
